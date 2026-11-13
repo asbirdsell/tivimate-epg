@@ -1,6 +1,6 @@
 # TiviMate EPG
 
-A daily XMLTV guide generated with [iptv-org/epg](https://github.com/iptv-org/epg), covering a starting selection of 269 Canadian and US channels. Coverage depends on the upstream schedule sources; not every selected channel is guaranteed to return listings.
+A daily XMLTV guide generated with [iptv-org/epg](https://github.com/iptv-org/epg), covering a selection of 2,345 Canadian, US and UK guide entries (573 Canadian, 1,445 US, 322 UK, and 5 legacy entries). Coverage depends on the upstream schedule sources; not every selected channel is guaranteed to return listings.
 
 ## EPG URL
 
@@ -38,5 +38,5 @@ GitHub scheduled runs can be delayed. GitHub may disable scheduled workflows in 
 
 - Edit `channels.xml` to change the channel selection.
 - The generator is pinned to upstream commit `6a74973f1e0657184bf168e589a043ac66bac551`. Review upstream changes and update the workflow pin when sources change.
-- Entries without an upstream XMLTV ID use a stable `TVPassport-<station-number>` ID and generally need manual assignment.
-- Sources currently used: TV Passport and TV Guide. Source availability and regional schedules may vary.
+- Entries without an upstream XMLTV ID use a stable `TVPassport-<station-number>` or `TVPassport-<station-number>.ca` ID and generally need manual assignment.
+- Sources currently used: TV Passport, TV Guide, TV Hebdo and Sky. Source availability and regional schedules may vary.
