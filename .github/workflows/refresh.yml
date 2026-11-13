@@ -6,7 +6,6 @@ on:
   push:
     paths:
       - 'channels.xml'
-      - '.github/workflows/refresh.yml'
 permissions:
   contents: write
 concurrency:
@@ -54,20 +53,22 @@ jobs:
           active = {p.get('channel') for p in future}
           ca = sum('.ca' in c for c in active)
           us = sum('.us' in c for c in active)
-          assert len(future) >= 100 and ca >= 10 and us >= 10, f'Insufficient fresh coverage: {len(future)} programmes, {ca} Canadian / {us} US channels. Previous guide preserved.'
+          uk = sum('.uk' in c for c in active)
+          assert len(future) >= 1000 and ca >= 120 and us >= 200 and uk >= 30, f'Insufficient fresh coverage: {len(future)} programmes, {ca} Canadian / {us} US / {uk} UK channels. Previous guide preserved.'
           os.replace('guide.next.xml', 'guide.xml')
           with open('guide.xml', 'rb') as source, gzip.open('guide.xml.gz', 'wb') as target:
               target.write(source.read())
-          status = {'updated_utc': now.isoformat(), 'channels_with_future_listings': len(active), 'canadian_channels': ca, 'us_channels': us, 'future_programmes': len(future), 'total_programmes': len(root.findall('programme'))}
+          status = {'updated_utc': now.isoformat(), 'channels_with_future_listings': len(active), 'canadian_channels': ca, 'us_channels': us, 'uk_channels': uk, 'future_programmes': len(future), 'total_programmes': len(root.findall('programme'))}
           with open('status.json', 'w') as f:
               json.dump(status, f, indent=2)
           print(json.dumps(status, indent=2))
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
-              f.write('Guide refreshed successfully.\\n\\n' + json.dumps(status, indent=2))
+              f.write('Guide refreshed successfully.\n\n' + json.dumps(status, indent=2))
           PY
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add guide.xml guide.xml.gz status.json
           git diff --cached --quiet && exit 0
           git commit -m "Refresh XMLTV guide"
+          git pull --rebase origin main
           git push
