@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvpassport.com" site_id="abc-spark-hd/10282" lang="en" xmltv_id="ABCSpark.ca@SD">ABC Spark HD</channel>
+  <channel site="tvpassport.com" site_id="addik-tv/2033" lang="en" xmltv_id="addikTV.ca@SD">Addik TV</channel>
+  <channel site="tvpassport.com" site_id="animal-planet-canada-hd/10044" lang="en" xmltv_id="AnimalPlanet.ca@HD">CTV Wild Canada HD</channel>
+  <channel site="tvpassport.com" site_id="animal-planet-canada/472" lang="en" xmltv_id="AnimalPlanet.ca@SD">CTV Wild Canada</channel>
+  <channel site="tvpassport.com" site_id="assemblee-nationale-du-quebec/431" lang="en" xmltv_id="AssembleenationaleduQuebec.ca@SD">Assemblee nationale du Quebec</channel>
+  <channel site="tvpassport.com" site_id="ary-musik/13698" lang="en" xmltv_id="ATNARYMusik.ca@SD">ARY Musik</channel>
+  <channel site="tvpassport.com" site_id="ary-zauq/13701" lang="en" xmltv_id="ATNARYZauq.ca@SD">ARY Zauq</channel>
+  <channel site="tvpassport.com" site_id="canal-d/108" lang="en" xmltv_id="CanalD.ca@SD">Canal D</channel>
+  <channel site="tvpassport.com" site_id="canal-m/5955" lang="en" xmltv_id="CanalM.ca@SD">Canal M</channel>
+  <channel site="tvpassport.com" site_id="canal-vie/307" lang="en" xmltv_id="CanalVie.ca@SD">Canal Vie</channel>
+  <channel site="tvpassport.com" site_id="casa/5484" lang="en" xmltv_id="Casa.ca@SD">CASA</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbat-fredericton-nb-hd/3942" lang="en" xmltv_id="CBATDT.ca@SD">CBC (CBAT) Fredericton, NB HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-news-network/74" lang="en" xmltv_id="CBCNewsNetwork.ca@SD">CBC News Network</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbet-windsor-on/132" lang="en" xmltv_id="CBETDT.ca@SD">CBC (CBET) Windsor, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbht-halifax-ns/121" lang="en" xmltv_id="CBHTDT.ca@SD">CBC (CBHT) Halifax, NS</channel>
+  <channel site="tvpassport.com" site_id="cbc-cblt-toronto-on/34" lang="en" xmltv_id="CBLTDT.ca@SD">CBC (CBLT) Toronto, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbmt-montreal-qc/107" lang="en" xmltv_id="CBMTDT.ca@SD">CBC (CBMT) Montreal, QC</channel>
+  <channel site="tvpassport.com" site_id="cbn-commonwealth-broadcasting-network/4016" lang="en" xmltv_id="CBN.ca@SD">CBN (Commonwealth Broadcasting Network)</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbot-ottawa-on/49" lang="en" xmltv_id="CBOTDT.ca@SD">CBC (CBOT) Ottawa, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbrt-calgary-ab/147" lang="en" xmltv_id="CBRTDT.ca@SD">CBC (CBRT) Calgary, AB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbut-vancouver-bc/180" lang="en" xmltv_id="CBUTDT.ca@SD">CBC (CBUT) Vancouver, BC</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbwt-winnipeg-mb/110" lang="en" xmltv_id="CBWTDT.ca@SD">CBC (CBWT) Winnipeg, MB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbxt-edmonton-ab/146" lang="en" xmltv_id="CBXTDT.ca@SD">CBC (CBXT) Edmonton, AB</channel>
+  <channel site="tvpassport.com" site_id="tva-cftm-montreal/106" lang="en" xmltv_id="CFTMDT.ca@SD">TVA (CFTM) Montréal</channel>
+  <channel site="tvpassport.com" site_id="chch-hamilton-on/43" lang="en" xmltv_id="CHCHDT.ca@SD">CHCH Hamilton, ON</channel>
+  <channel site="tvpassport.com" site_id="chek-vancouver-island-bc/183" lang="en" xmltv_id="CHEK.ca@SD">CHEK Vancouver Island, BC</channel>
+  <channel site="tvpassport.com" site_id="tvo-tv-ontario/18" lang="en" xmltv_id="CICADT.ca@SD">TVO (TV Ontario)</channel>
+  <channel site="tvpassport.com" site_id="global-cihf-dartmouth/115" lang="en" xmltv_id="CIHFDT.ca@SD">Global (CIHF) Dartmouth</channel>
+  <channel site="tvpassport.com" site_id="global-ciii-ontario-hd/4021" lang="en" xmltv_id="CIIIDT.ca@SD">Global (CIII) Ontario HD</channel>
+  <channel site="tvpassport.com" site_id="cinepop/2325" lang="en" xmltv_id="Cinepop.ca@SD">Cinépop</channel>
+  <channel site="tvpassport.com" site_id="yes-tv-cits-burlington-on/293" lang="en" xmltv_id="CITSDT.ca@SD">Yes TV (CITS) Burlington, ON</channel>
+  <channel site="tvpassport.com" site_id="cmt-canada/120" lang="en" xmltv_id="CMT.ca@SD">CMT Canada</channel>
+  <channel site="tvpassport.com" site_id="cottage-life/455" lang="en" xmltv_id="CottageLife.ca@SD">Cottage Life</channel>
+  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
+  <channel site="tvpassport.com" site_id="cpac-ottawa/127" lang="en" xmltv_id="CPACEnglish.ca@SD">CPAC Ottawa</channel>
+  <channel site="tvpassport.com" site_id="crave4/320" lang="en" xmltv_id="Crave4.ca@SD">Crave4</channel>
+  <channel site="tvpassport.com" site_id="ctv-news-channel/416" lang="en" xmltv_id="CTVNewsChannel.ca@SD">CTV News Channel</channel>
+  <channel site="tvpassport.com" site_id="deja-view/448" lang="en" xmltv_id="DejaView.ca@SD">Deja View</channel>
+  <channel site="tvpassport.com" site_id="discovery-channel-can/16" lang="en" xmltv_id="DiscoveryChannel.ca@SD">USA Network (CAN)</channel>
+  <channel site="tvpassport.com" site_id="discovery-science-canada/1188" lang="en" xmltv_id="DiscoveryScience.ca@SD">CTV Nature Canada</channel>
+  <channel site="tvpassport.com" site_id="disney-channel-canada--east/16682" lang="en" xmltv_id="DisneyChannel.ca@East">Disney Channel Canada - East</channel>
+  <channel site="tvpassport.com" site_id="disney-channel-canada--west/16831" lang="en" xmltv_id="DisneyChannel.ca@West">Disney Channel Canada - West</channel>
+  <channel site="tvpassport.com" site_id="disney-junior-canada-hd/17225" lang="en" xmltv_id="DisneyJunior.ca@SD">Disney Junior Canada HD</channel>
+  <channel site="tvpassport.com" site_id="disney-xd-canada-hd/17173" lang="en" xmltv_id="DisneyXD.ca@SD">Disney XD Canada HD</channel>
+  <channel site="tvpassport.com" site_id="documentary-channel-canada/462" lang="en" xmltv_id="DocumentaryChannel.ca@SD">Documentary Channel (Canada)</channel>
+  <channel site="tvpassport.com" site_id="dtour/11143" lang="en" xmltv_id="DTour.ca@SD">DTOUR</channel>
+  <channel site="tvpassport.com" site_id="e-canada/295" lang="en" xmltv_id="E.ca@SD">E! Canada</channel>
+  <channel site="tvpassport.com" site_id="ert-world-canada/3419" lang="en" xmltv_id="ERTWorld.ca@SD">ERT World (Canada)</channel>
+  <channel site="tvpassport.com" site_id="fairchild-tv-2-hd/11398" lang="en" xmltv_id="FairchildTV2.ca@SD">Fairchild TV 2 HD</channel>
+  <channel site="tvpassport.com" site_id="family-jr/5330" lang="en" xmltv_id="FamilyJr.ca@SD">Family Jr.</channel>
+  <channel site="tvpassport.com" site_id="fight-network-canada/3433" lang="en" xmltv_id="FightNetwork.ca@SD">Fight Network Canada</channel>
+  <channel site="tvpassport.com" site_id="food-network-canada-dv/8388" lang="en" xmltv_id="FoodNetwork.ca@SD">Flavour Network DV</channel>
+  <channel site="tvpassport.com" site_id="fptv-festival-portuguese-tv/2465" lang="en" xmltv_id="FPTV.ca@SD">FPTV (Festival Portuguese TV)</channel>
+  <channel site="tvpassport.com" site_id="fx-networks-canada/10026" lang="en" xmltv_id="FX.ca@SD">FX Networks Canada</channel>
+  <channel site="tvpassport.com" site_id="fxx-canada/13400" lang="en" xmltv_id="FXX.ca@SD">FXX Canada</channel>
+  <channel site="tvpassport.com" site_id="global-bc/31" lang="en" xmltv_id="GlobalNewsBC1.ca@SD">Global BC</channel>
+  <channel site="tvpassport.com" site_id="halla-bol/13664" lang="en" xmltv_id="HallaBolKidsTV.ca@SD">Halla Bol!</channel>
+  <channel site="tvpassport.com" site_id="hgtv-canada/167" lang="en" xmltv_id="HGTV.ca@SD">Home Network</channel>
+  <channel site="tvpassport.com" site_id="historia/345" lang="en" xmltv_id="Historia.ca@SD">Historia</channel>
+  <channel site="tvpassport.com" site_id="history-canada-east/164" lang="en" xmltv_id="History.ca@SD">History Canada East</channel>
+  <channel site="tvpassport.com" site_id="hollywood-suite-00s/8887" lang="en" xmltv_id="HollywoodSuite00sMovies.ca@SD">Hollywood Suite 2010s+</channel>
+  <channel site="tvpassport.com" site_id="hollywood-suite-70s/10310" lang="en" xmltv_id="HollywoodSuite70sMovies.ca@SD">Hollywood Suite 70s+</channel>
+  <channel site="tvpassport.com" site_id="hollywood-suite-80s/13639" lang="en" xmltv_id="HollywoodSuite80sMovies.ca@SD">Hollywood Suite 80s &amp; 90s</channel>
+  <channel site="tvpassport.com" site_id="hollywood-suite-90s/10880" lang="en" xmltv_id="HollywoodSuite90sMovies.ca@SD">Hollywood Suite 2000s</channel>
+  <channel site="tvpassport.com" site_id="artv/459" lang="en" xmltv_id="IciARTV.ca@SD">ARTV</channel>
+  <channel site="tvpassport.com" site_id="explora/10298" lang="en" xmltv_id="IciExplora.ca@SD">Explora</channel>
+  <channel site="tvpassport.com" site_id="rdi-news/8" lang="en" xmltv_id="IciRDI.ca@SD">RDI (News)</channel>
+  <channel site="tvpassport.com" site_id="investigation-discovery-canada-hd/8458" lang="en" xmltv_id="InvestigationDiscovery.ca@SD">Oxygen True Crime Canada HD</channel>
+  <channel site="tvpassport.com" site_id="lcn/432" lang="en" xmltv_id="LCN.ca@SD">LCN</channel>
+  <channel site="tvpassport.com" site_id="ontario-legislature/417" lang="en" xmltv_id="LegislativeAssemblyofOntario.ca@SD">Ontario Legislature</channel>
+  <channel site="tvpassport.com" site_id="lifetime-tv--canada-hd/11044" lang="en" xmltv_id="Lifetime.ca@SD">Lifetime TV - Canada HD</channel>
+  <channel site="tvpassport.com" site_id="love-nature/3907" lang="en" xmltv_id="LoveNature.ca@SD">Love Nature</channel>
+  <channel site="tvpassport.com" site_id="ls-times/6863" lang="en" xmltv_id="LSTimesTV.ca@SD">LS Times</channel>
+  <channel site="tvpassport.com" site_id="makeful/2466" lang="en" xmltv_id="Makeful.ca@SD">Makeful</channel>
+  <channel site="tvpassport.com" site_id="mediaset-italia/8436" lang="en" xmltv_id="MediasetItalia.ca@SD">Mediaset Italia</channel>
+  <channel site="tvpassport.com" site_id="movietime/464" lang="en" xmltv_id="MovieTime.ca@SD">MovieTime</channel>
+  <channel site="tvpassport.com" site_id="much-music/73" lang="en" xmltv_id="Much.ca@SD">Much Music</channel>
+  <channel site="tvpassport.com" site_id="national-geographic-canada-hd/4162" lang="en" xmltv_id="NationalGeographic.ca@SD">National Geographic Canada HD</channel>
+  <channel site="tvpassport.com" site_id="national-geographic-wild-canada-hd/11012" lang="en" xmltv_id="NationalGeographicWild.ca@SD">National Geographic Wild Canada HD</channel>
+  <channel site="tvpassport.com" site_id="nba-tv-canada-tv-hd/3615" lang="en" xmltv_id="NBATVCanada.ca@SD">NBA TV Canada TV HD</channel>
+  <channel site="tvpassport.com" site_id="odyssey/412" lang="en" xmltv_id="Odyssey.ca@SD">Odyssey</channel>
+  <channel site="tvpassport.com" site_id="outtv/2729" lang="en" xmltv_id="OUTtv.ca@SD">OUTtv</channel>
+  <channel site="tvpassport.com" site_id="penthouse-tv-canada/5894" lang="en" xmltv_id="PenthouseTV.ca@SD">Penthouse TV Canada</channel>
+  <channel site="tvpassport.com" site_id="prise-2/2848" lang="en" xmltv_id="Prise2.ca@SD">Prise 2</channel>
+  <channel site="tvpassport.com" site_id="rds-2/9705" lang="en" xmltv_id="RDS2.ca@SD">RDS 2</channel>
+  <channel site="tvpassport.com" site_id="rds-reseau-des-sports/47" lang="en" xmltv_id="RDS.ca@SD">RDS (Réseau des sports)</channel>
+  <channel site="tvpassport.com" site_id="rds-info/3889" lang="en" xmltv_id="RDSInfo.ca@SD">RDS Info</channel>
+  <channel site="tvpassport.com" site_id="red-hot-tv/3627" lang="en" xmltv_id="RedHotTV.ca@SD">Red Hot TV</channel>
+  <channel site="tvpassport.com" site_id="showcase-canada/62" lang="en" xmltv_id="Showcase.ca@SD">Showcase Canada</channel>
+  <channel site="tvpassport.com" site_id="silver-screen-classics/2115" lang="en" xmltv_id="SilverScreenClassics.ca@SD">Silver Screen Classics</channel>
+  <channel site="tvpassport.com" site_id="slice/60" lang="en" xmltv_id="Slice.ca@SD">Slice</channel>
+  <channel site="tvpassport.com" site_id="smithsonian-channel-canada/3909" lang="en" xmltv_id="SmithsonianChannel.ca@SD">Smithsonian Channel Canada</channel>
+  <channel site="tvpassport.com" site_id="sportsnet-360/336" lang="en" xmltv_id="Sportsnet360.ca@SD">Sportsnet 360</channel>
+  <channel site="tvpassport.com" site_id="sportsnet-ontario/254" lang="en" xmltv_id="Sportsnet.ca@Ontario">Sportsnet (Ontario)</channel>
+  <channel site="tvpassport.com" site_id="sportsnet-one/8249" lang="en" xmltv_id="SportsnetOne.ca@SD">Sportsnet One</channel>
+  <channel site="tvpassport.com" site_id="sportsnet-world/4442" lang="en" xmltv_id="SportsnetWorld.ca@SD">Sportsnet World</channel>
+  <channel site="tvpassport.com" site_id="super-ecran/57" lang="en" xmltv_id="SuperEcran1.ca@SD">Super Ecran</channel>
+  <channel site="tvpassport.com" site_id="super-ecran-2/362" lang="en" xmltv_id="SuperEcran2.ca@SD">Super Ecran 2</channel>
+  <channel site="tvpassport.com" site_id="super-ecran-3/410" lang="en" xmltv_id="SuperEcran3.ca@SD">Super Ecran 3</channel>
+  <channel site="tvpassport.com" site_id="super-ecran-4/411" lang="en" xmltv_id="SuperEcran4.ca@SD">Super Ecran 4</channel>
+  <channel site="tvpassport.com" site_id="talentvision/365" lang="en" xmltv_id="Talentvision.ca@SD">Talentvision</channel>
+  <channel site="tvpassport.com" site_id="turner-classic-movies-canada/2847" lang="en" xmltv_id="TCM.ca@SD">Turner Classic Movies Canada</channel>
+  <channel site="tvpassport.com" site_id="telemagino/8019" lang="en" xmltv_id="Telemagino.ca@SD">Télémagino</channel>
+  <channel site="tvpassport.com" site_id="weather-network-dv/3959" lang="en" xmltv_id="TheWeatherNetwork.ca@SD">Weather Network DV</channel>
+  <channel site="tvpassport.com" site_id="treehouse/163" lang="en" xmltv_id="TreehouseTV.ca@SD">Treehouse</channel>
+  <channel site="tvpassport.com" site_id="tsn1/11" lang="en" xmltv_id="TSN1.ca@SD">TSN1</channel>
+  <channel site="tvpassport.com" site_id="tsn2/4294" lang="en" xmltv_id="TSN2.ca@SD">TSN2</channel>
+  <channel site="tvpassport.com" site_id="tsn3/13719" lang="en" xmltv_id="TSN3.ca@SD">TSN3</channel>
+  <channel site="tvpassport.com" site_id="tsn4/279" lang="en" xmltv_id="TSN4.ca@SD">TSN4</channel>
+  <channel site="tvpassport.com" site_id="tsn5/278" lang="en" xmltv_id="TSN5.ca@SD">TSN5</channel>
+  <channel site="tvpassport.com" site_id="tva-sports/9823" lang="en" xmltv_id="TVASports.ca@SD">TVA Sports</channel>
+  <channel site="tvpassport.com" site_id="wild-tv/2976" lang="en" xmltv_id="WildTV.ca@SD">Wild TV</channel>
+  <channel site="tvpassport.com" site_id="z/344" lang="en" xmltv_id="Z.ca@SD">Z</channel>
+  <channel site="tvpassport.com" site_id="the-cooking-channel-hd/8113" lang="en" xmltv_id="CookingChannel.us@SD">The Cooking Channel HD</channel>
+  <channel site="tvpassport.com" site_id="nba-tv-usa-hd/5645" lang="en" xmltv_id="NBATV.us@SD">NBA TV USA HD</channel>
+  <channel site="tvpassport.com" site_id="comedy-central-hd--eastern-feed/6957" lang="en" xmltv_id="ComedyCentral.us@East">Comedy Central HD - Eastern Feed</channel>
+  <channel site="tvguide.com" site_id="9200000856" lang="en" xmltv_id="ThrillerMax.us@East">ThrillerMax</channel>
+  <channel site="tvpassport.com" site_id="mtv-2--east/1515" lang="en" xmltv_id="MTV2.us@East">MTV 2 - East</channel>
+  <channel site="tvpassport.com" site_id="showtime-family-zone--eastern/1956" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime Family Zone - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-black--eastern/4206" lang="en" xmltv_id="StarzEncoreBlack.us@East">Starz Encore Black - Eastern</channel>
+  <channel site="tvpassport.com" site_id="investigation-discovery-usa--eastern/2090" lang="en" xmltv_id="InvestigationDiscovery.us@East">Investigation Discovery USA - Eastern</channel>
+  <channel site="tvpassport.com" site_id="oprah-winfrey-network-usa-eastern/1159" lang="en" xmltv_id="OWN.us@East">Oprah Winfrey Network USA Eastern</channel>
+  <channel site="tvpassport.com" site_id="bravo-usa--eastern-feed/646" lang="en" xmltv_id="Bravo.us@East">Bravo USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="showtime-women--eastern/2273" lang="en" xmltv_id="ShowtimeWomen.us@East">Showtime Women - Eastern</channel>
+  <channel site="tvguide.com" site_id="9200003144" lang="en" xmltv_id="StarzEncoreClassic.us@East">STARZ ENCORE Classic</channel>
+  <channel site="tvpassport.com" site_id="discovery-family-channel-hd/8518" lang="en" xmltv_id="DiscoveryFamily.us@SD">Discovery Family Channel HD</channel>
+  <channel site="tvpassport.com" site_id="independent-film-channel-us-hd/6215" lang="en" xmltv_id="IFC.us@East">Independent Film Channel US HD</channel>
+  <channel site="tvpassport.com" site_id="syfy--eastern-feed/596" lang="en" xmltv_id="Syfy.us@East">Syfy - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="nfl-network/3349" lang="en" xmltv_id="NFLNetwork.us@SD">NFL Network</channel>
+  <channel site="tvpassport.com" site_id="big-ten-network-hd/4500" lang="en" xmltv_id="BigTenNetwork.us@SD">Big Ten Network HD</channel>
+  <channel site="tvpassport.com" site_id="hbo-family--eastern-feed-hd/7104" lang="en" xmltv_id="HBOFamily.us@East">HBO Family - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="national-geographic-wild-hd/9579" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild HD</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-usa--eastern-feed/661" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="disney-xd-usa--eastern-feed/1053" lang="en" xmltv_id="DisneyXD.us@East">Disney XD USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="showtime-extreme--eastern/1615" lang="en" xmltv_id="ShowtimeExtreme.us@East">Showtime Extreme - Eastern</channel>
+  <channel site="tvpassport.com" site_id="hbo--eastern-feed/614" lang="en" xmltv_id="HBO.us@East">HBO - Eastern Feed</channel>
+  <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
+  <channel site="tvpassport.com" site_id="oxygen--eastern-feed/659" lang="en" xmltv_id="Oxygen.us@East">Oxygen True Crime - Eastern Feed</channel>
+  <channel site="tvguide.com" site_id="9200006851" lang="en" xmltv_id="MGMPlusDriveIn.us@SD">MGM+ Drive-In</channel>
+  <channel site="tvpassport.com" site_id="fx-networks-east-coast-hd/6111" lang="en" xmltv_id="FX.us@East">FX Networks East Coast HD</channel>
+  <channel site="tvpassport.com" site_id="espn-hd/3036" lang="en" xmltv_id="ESPN.us@SD">ESPN HD</channel>
+  <channel site="tvpassport.com" site_id="nickelodeon-usa--east-feed-hd/6342" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon USA - East Feed HD</channel>
+  <channel site="tvpassport.com" site_id="freeform--east-feed/1011" lang="en" xmltv_id="Freeform.us@East">Freeform - East Feed</channel>
+  <channel site="tvpassport.com" site_id="espn-news-hd/6246" lang="en" xmltv_id="ESPNews.us@SD">ESPN News HD</channel>
+  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
+  <channel site="tvpassport.com" site_id="starz-kids--family--eastern/1194" lang="en" xmltv_id="StarzKidsFamily.us@East">Starz Kids &amp; Family - Eastern</channel>
+  <channel site="tvpassport.com" site_id="hbo-comedy--east/629" lang="en" xmltv_id="HBOComedy.us@East">HBO Comedy - East</channel>
+  <channel site="tvpassport.com" site_id="fox-business-hd/5600" lang="en" xmltv_id="FoxBusinessNetwork.us@SD">Fox Business HD</channel>
+  <channel site="tvpassport.com" site_id="mlb-network-hd/6218" lang="en" xmltv_id="MLBNetwork.us@SD">MLB Network HD</channel>
+  <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
+  <channel site="tvpassport.com" site_id="mgm-hd-usa/6107" lang="en" xmltv_id="MGMHD.us@SD">MGM HD (USA)</channel>
+  <channel site="tvpassport.com" site_id="cnbc-usa-hd/6119" lang="en" xmltv_id="CNBC.us@SD">CNBC USA HD</channel>
+  <channel site="tvpassport.com" site_id="trutv-usa--east-hd/6996" lang="en" xmltv_id="truTV.us@East">truTV USA - East HD</channel>
+  <channel site="tvguide.com" site_id="9200009636" lang="en" xmltv_id="GreatAmericanFamily.us@SD">Great American Family</channel>
+  <channel site="tvpassport.com" site_id="starz-encore--eastern/667" lang="en" xmltv_id="StarzEncore.us@East">Starz Encore - Eastern</channel>
+  <channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="FoxSports2.us@HD">FOX Sports 2</channel>
+  <channel site="tvpassport.com" site_id="reelzchannel/4175" lang="en" xmltv_id="Reelz.us@SD">ReelzChannel</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-suspense--eastern/1958" lang="en" xmltv_id="StarzEncoreSuspense.us@East">Starz Encore Suspense - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-family--eastern/2128" lang="en" xmltv_id="StarzEncoreFamily.us@East">Starz Encore Family - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-in-black--eastern/1957" lang="en" xmltv_id="StarzInBlack.us@East">Starz In Black - Eastern</channel>
+  <channel site="tvpassport.com" site_id="telemundo--eastern-feed/1521" lang="en" xmltv_id="Telemundo.us@East">Telemundo - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="cmt-us--eastern-feed-hd/6344" lang="en" xmltv_id="CMT.us@East">CMT US - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="e-entertainment-usa--eastern-feed/617" lang="en" xmltv_id="E.us@East">E! Entertainment USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="espn2-hd/3379" lang="en" xmltv_id="ESPN2.us@SD">ESPN2 HD</channel>
+  <channel site="tvguide.com" site_id="9200012412" lang="en" xmltv_id="FanDuelTV.us@SD">FanDuel TV</channel>
+  <channel site="tvguide.com" site_id="9200012415" lang="en" xmltv_id="MagnoliaNetwork.us@East">MAGNOLIA Network</channel>
+  <channel site="tvpassport.com" site_id="bbc-america--east-hd/11121" lang="en" xmltv_id="BBCAmerica.us@East">BBC America - East HD</channel>
+  <channel site="tvpassport.com" site_id="mtv-usa--eastern-feed/656" lang="en" xmltv_id="MTV.us@East">MTV USA - Eastern Feed</channel>
+  <channel site="tvguide.com" site_id="9200014841" lang="en" xmltv_id="OuterMax.us@East">OuterMax</channel>
+  <channel site="tvpassport.com" site_id="hallmark--eastern-feed/1052" lang="en" xmltv_id="HallmarkChannel.us@East">Hallmark - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="actionmax--eastern-hd/7094" lang="en" xmltv_id="ActionMax.us@East">Cinemax Action - Eastern HD</channel>
+  <channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="Showtime.us@East">Paramount+ with Showtime</channel>
+  <channel site="tvpassport.com" site_id="hln-hd/6994" lang="en" xmltv_id="HLN.us@SD">HLN HD</channel>
+  <channel site="tvpassport.com" site_id="showtime-next--eastern/2272" lang="en" xmltv_id="ShowtimeNext.us@East">Showtime Next - Eastern</channel>
+  <channel site="tvpassport.com" site_id="acc-network/33964" lang="en" xmltv_id="ACCNetwork.us@SD">ACC Network</channel>
+  <channel site="tvpassport.com" site_id="the-tennis-channel-hd/7051" lang="en" xmltv_id="TennisChannel.us@SD">The Tennis Channel HD</channel>
+  <channel site="tvpassport.com" site_id="turner-classic-movies-usa/176" lang="en" xmltv_id="TCM.us@East">Turner Classic Movies USA</channel>
+  <channel site="tvpassport.com" site_id="showtime-2--eastern/1387" lang="en" xmltv_id="Showtime2.us@East">Showtime 2 - Eastern</channel>
+  <channel site="tvpassport.com" site_id="we-womens-entertainment--eastern/664" lang="en" xmltv_id="WeTV.us@East">WE (Women's Entertainment) - Eastern</channel>
+  <channel site="tvpassport.com" site_id="disney--eastern-feed/595" lang="en" xmltv_id="DisneyChannel.us@East">Disney - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="animal-planet-us--east/645" lang="en" xmltv_id="AnimalPlanet.us@East">Animal Planet US - East</channel>
+  <channel site="tvpassport.com" site_id="cbs--eastern/1225" lang="en" xmltv_id="CBS.us@East">CBS - Eastern</channel>
+  <channel site="tvpassport.com" site_id="fxx-usa--eastern/1952" lang="en" xmltv_id="FXX.us@East">FXX USA - Eastern</channel>
+  <channel site="tvguide.com" site_id="9200019847" lang="en" xmltv_id="Science.us@East">Science</channel>
+  <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
+  <channel site="tvpassport.com" site_id="lifetime-network-us--eastern-feed-hd/6333" lang="en" xmltv_id="Lifetime.us@East">Lifetime Network US - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="fyi-usa--eastern/1971" lang="en" xmltv_id="FYI.us@East">FYI USA - Eastern</channel>
+  <channel site="tvpassport.com" site_id="pop--east/10165" lang="en" xmltv_id="Pop.us@East">POP - East</channel>
+  <channel site="tvpassport.com" site_id="nicktoons--east/2010" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons - East</channel>
+  <channel site="tvguide.com" site_id="9200020594" lang="en" xmltv_id="MGMPlusMarquee.us@SD">MGM+ Marquee HD</channel>
+  <channel site="tvguide.com" site_id="9200020665" lang="en" xmltv_id="BETHer.us@East">BET Her</channel>
+  <channel site="tvguide.com" site_id="9233000035" lang="en" xmltv_id="TravelChannel.us@East">Travel</channel>
+  <channel site="tvpassport.com" site_id="vh1--eastern-feed/663" lang="en" xmltv_id="VH1.us@East">VH1 - Eastern Feed</channel>
+  <channel site="tvguide.com" site_id="9233000217" lang="en" xmltv_id="Flix.us@East">Flix</channel>
+  <channel site="tvpassport.com" site_id="tbs--east-hd/6090" lang="en" xmltv_id="TBS.us@East">TBS - East HD</channel>
+  <channel site="tvpassport.com" site_id="fox-news-hd/6207" lang="en" xmltv_id="FoxNewsChannel.us@SD">Fox News HD</channel>
+  <channel site="tvguide.com" site_id="9233000532" lang="en" xmltv_id="MovieMax.us@East">MovieMax</channel>
+  <channel site="tvpassport.com" site_id="sundancetv-usa--east/1848" lang="en" xmltv_id="SundanceTV.us@East">SundanceTV USA - East</channel>
+  <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us@East">MyNetworkTV National</channel>
+  <channel site="tvguide.com" site_id="9233002112" lang="en" xmltv_id="SmithsonianChannel.us@East">Smithsonian</channel>
+  <channel site="tvguide.com" site_id="9233002242" lang="en" xmltv_id="VICETV.us@SD">VICE</channel>
+  <channel site="tvpassport.com" site_id="fox--eastern/1229" lang="en" xmltv_id="Fox.us@East">FOX - Eastern</channel>
+  <channel site="tvpassport.com" site_id="national-geographic-us--eastern/657" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic US - Eastern</channel>
+  <channel site="tvguide.com" site_id="9233003479" lang="en" xmltv_id="MotorTrend.us@SD">Motor Trend Network</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed-hd/6313" lang="en" xmltv_id="HBO2.us@East">HBO Hits - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="outdoor-channel-us/1086" lang="en" xmltv_id="OutdoorChannel.us@SD">Outdoor Channel US</channel>
+  <channel site="tvpassport.com" site_id="starz-comedy--eastern/4223" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy - Eastern</channel>
+  <channel site="tvguide.com" site_id="9233003660" lang="en" xmltv_id="UniversalKids.us@East">Universal Kids (Off-Air)</channel>
+  <channel site="tvguide.com" site_id="9233003673" lang="en" xmltv_id="CrimePlusInvestigation.us@SD">Crime &amp; Investigation Network</channel>
+  <channel site="tvguide.com" site_id="9233003805" lang="en" xmltv_id="ShowtimeShowcase.us@East">SHOWTIME SHOWCASE</channel>
+  <channel site="tvpassport.com" site_id="discovery-channel-us--eastern-feed/649" lang="en" xmltv_id="DiscoveryChannel.us@East">Discovery Channel (US) - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="hgtv-usa--eastern-feed/623" lang="en" xmltv_id="HGTV.us@East">HGTV USA - Eastern Feed</channel>
+  <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
+  <channel site="tvpassport.com" site_id="tlc-usa--eastern/5005" lang="en" xmltv_id="TLC.us@East">TLC USA - Eastern</channel>
+  <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
+  <channel site="tvpassport.com" site_id="golf-channel-usa-hd/6039" lang="en" xmltv_id="GolfChannel.us@SD">Golf Channel USA HD</channel>
+  <channel site="tvpassport.com" site_id="tv-land--eastern-hd/8815" lang="en" xmltv_id="TVLand.us@East">TV Land - Eastern HD</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-action--eastern/2078" lang="en" xmltv_id="StarzEncoreAction.us@East">Starz Encore Action - Eastern</channel>
+  <channel site="tvpassport.com" site_id="bet--eastern-feed/323" lang="en" xmltv_id="BET.us@East">BET - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="msnbc-usa-hd/6995" lang="en" xmltv_id="MSNBC.us@SD">MS NOW HD</channel>
+  <channel site="tvguide.com" site_id="9233007144" lang="en" xmltv_id="CSPAN.us@SD">C-SPAN</channel>
+  <channel site="tvpassport.com" site_id="nick-jr--east/1969" lang="en" xmltv_id="NickJr.us@East">Nick Jr. - East</channel>
+  <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us@East">History</channel>
+  <channel site="tvpassport.com" site_id="starz-encore-westerns--eastern/1959" lang="en" xmltv_id="StarzEncoreWesterns.us@East">Starz Encore Westerns - Eastern</channel>
+  <channel site="tvpassport.com" site_id="hbo-signature-hbo-3--eastern-hd/7099" lang="en" xmltv_id="HBOSignature.us@East">HBO Drama (HBO 3) - Eastern HD</channel>
+  <channel site="tvguide.com" site_id="9233008357" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema</channel>
+  <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us@HD">FOX Sports 1</channel>
+  <channel site="tvpassport.com" site_id="sec-network-hd/13712" lang="en" xmltv_id="SECNetwork.us@SD">SEC Network HD</channel>
+  <channel site="tvpassport.com" site_id="food-network-usa--eastern-feed/1054" lang="en" xmltv_id="FoodNetwork.us@East">Food Network USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="nhl-network-usa/14156" lang="en" xmltv_id="NHLNetwork.us@SD">NHL Network USA</channel>
+  <channel site="tvpassport.com" site_id="disney-junior-usa--east/6867" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior USA - East</channel>
+  <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us@East">LMN</channel>
+  <channel site="tvpassport.com" site_id="cinemax--eastern-feed/632" lang="en" xmltv_id="Cinemax.us@East">Cinemax - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="hbo-zone--east/630" lang="en" xmltv_id="HBOZone.us@East">HBO Movies - East</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-eastern/1227" lang="en" xmltv_id="NBC.us@East">NBC - Network Eastern</channel>
+  <channel site="tvguide.com" site_id="9233010939" lang="en" xmltv_id="HallmarkFamily.us@SD">Hallmark Family</channel>
+  <channel site="tvguide.com" site_id="9233011240" lang="en" xmltv_id="Ovation.us@SD">Ovation</channel>
+  <channel site="tvpassport.com" site_id="starz-edge--eastern/2120" lang="en" xmltv_id="StarzEdge.us@East">Starz Edge - Eastern</channel>
+  <channel site="tvpassport.com" site_id="espn-u/3331" lang="en" xmltv_id="ESPNU.us@SD">ESPN U</channel>
+  <channel site="tvguide.com" site_id="9233011398" lang="en" xmltv_id="TheCW.us@SD">CW Network National</channel>
+  <channel site="tvpassport.com" site_id="fuse-tv--eastern-feed/1486" lang="en" xmltv_id="Fuse.us@East">FUSE TV - Eastern feed</channel>
+  <channel site="tvguide.com" site_id="9233011536" lang="en" xmltv_id="TheMovieChannelXtra.us@East">The Movie Xtra</channel>
+  <channel site="tvpassport.com" site_id="tnt--eastern-feed/347" lang="en" xmltv_id="TNT.us@East">TNT - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="amc--eastern-feed-hd/6219" lang="en" xmltv_id="AMC.us@East">AMC - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="abc--eastern/1224" lang="en" xmltv_id="ABC.us@East">ABC - Eastern</channel>
+  <channel site="tvguide.com" site_id="9233011910" lang="en" xmltv_id="IONTV.us@East">ION</channel>
+  <channel site="tvguide.com" site_id="9233011931" lang="en" xmltv_id="5StarMax.us@East">5StarMax</channel>
+  <channel site="tvpassport.com" site_id="cbs-sports-network-usa-hd/6985" lang="en" xmltv_id="CBSSportsNetworkUSA.us@SD">CBS Sports Network USA HD</channel>
+  <channel site="tvguide.com" site_id="9233013251" lang="en" xmltv_id="NewsNation.us@SD">NewsNation</channel>
+  <channel site="tvguide.com" site_id="9233013351" lang="en" xmltv_id="HallmarkMoviesMysteries.us@East">Hallmark Mystery</channel>
+  <channel site="tvpassport.com" site_id="logo--east/2091" lang="en" xmltv_id="Logo.us@East">LOGO - East</channel>
+  <channel site="tvguide.com" site_id="9233013634" lang="en" xmltv_id="MGMPlusHits.us@East">MGM+ Hits HD</channel>
+  <channel site="tvpassport.com" site_id="starz--eastern/583" lang="en" xmltv_id="Starz.us@East">Starz - Eastern</channel>
+  <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us@East">Paramount Network</channel>
+  <channel site="tvpassport.com" site_id="cnn/70" lang="en" xmltv_id="CNN.us@SD">CNN</channel>
+  <channel site="tvpassport.com" site_id="the-weather-channel-hd/5599" lang="en" xmltv_id="TheWeatherChannel.us@SD">The Weather Channel HD</channel>
+  <channel site="tvpassport.com" site_id="discovery-life-channel-hd/16423" lang="en" xmltv_id="DiscoveryLife.us@SD">Discovery Life Channel HD</channel>
+  <channel site="tvpassport.com" site_id="fx-movie-channel-hd/8463" lang="en" xmltv_id="FXMovieChannel.us@SD">FX Movie Channel HD</channel>
+  <channel site="tvguide.com" site_id="9233015305" lang="en" xmltv_id="TheMovieChannel.us@East">The Movie</channel>
+  <channel site="tvguide.com" site_id="9233015766" lang="en" xmltv_id="MoreMax.us@East">MoreMax</channel>
+  <channel site="tvpassport.com" site_id="american-heroes-channel/2035" lang="en" xmltv_id="AmericanHeroesChannel.us@SD">American Heroes Channel</channel>
+  <channel site="tvpassport.com" site_id="bloomberg-tv-usa/1856" lang="en" xmltv_id="BloombergTV.us@US">Bloomberg TV USA</channel>
+  <channel site="tvpassport.com" site_id="boomerang-hd/16413" lang="en" xmltv_id="Boomerang.us@SD">Boomerang HD</channel>
+  <channel site="tvguide.com" site_id="9233017018" lang="en" xmltv_id="ShoxBet.us@East">SHOxBET</channel>
+  <channel site="tvpassport.com" site_id="bnn-bloomberg/294" lang="en" xmltv_id="TVPassport-294">BNN Bloomberg</channel>
+  <channel site="tvpassport.com" site_id="crave1--east/72" lang="en" xmltv_id="TVPassport-72">Crave1 - East</channel>
+  <channel site="tvpassport.com" site_id="crave2--east/86" lang="en" xmltv_id="TVPassport-86">Crave2 - East</channel>
+  <channel site="tvpassport.com" site_id="crave3--east/85" lang="en" xmltv_id="TVPassport-85">Crave3 - East</channel>
+  <channel site="tvpassport.com" site_id="crave4-hd/10781" lang="en" xmltv_id="TVPassport-10781">Crave4 HD</channel>
+</channels>
