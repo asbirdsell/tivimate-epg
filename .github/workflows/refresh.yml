@@ -1,0 +1,73 @@
+name: Refresh TV guide
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 10 * * *'
+  push:
+    paths:
+      - 'channels.xml'
+      - '.github/workflows/refresh.yml'
+permissions:
+  contents: write
+concurrency:
+  group: epg-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out iptv-org EPG generator
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: 6a74973f1e0657184bf168e589a043ac66bac551
+          path: upstream
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: upstream/package-lock.json
+      - name: Install generator
+        working-directory: upstream
+        run: npm ci
+      - name: Generate three days of listings
+        working-directory: upstream
+        run: npm run grab -- --channels=../channels.xml --output=../guide.next.xml --days=3 --maxConnections=5 --timeout=15000
+      - name: Validate and publish guide
+        run: |
+          python3 - <<'PY'
+          import collections, datetime, gzip, json, os
+          import xml.etree.ElementTree as ET
+          root = ET.parse('guide.next.xml').getroot()
+          now = datetime.datetime.now(datetime.timezone.utc)
+          future = []
+          for p in root.findall('programme'):
+              try:
+                  stop = datetime.datetime.strptime(p.get('stop'), '%Y%m%d%H%M%S %z')
+                  if stop > now:
+                      future.append(p)
+              except (ValueError, TypeError):
+                  pass
+          active = {p.get('channel') for p in future}
+          ca = sum('.ca' in c for c in active)
+          us = sum('.us' in c for c in active)
+          assert len(future) >= 100 and ca >= 10 and us >= 10, f'Insufficient fresh coverage: {len(future)} programmes, {ca} Canadian / {us} US channels. Previous guide preserved.'
+          os.replace('guide.next.xml', 'guide.xml')
+          with open('guide.xml', 'rb') as source, gzip.open('guide.xml.gz', 'wb') as target:
+              target.write(source.read())
+          status = {'updated_utc': now.isoformat(), 'channels_with_future_listings': len(active), 'canadian_channels': ca, 'us_channels': us, 'future_programmes': len(future), 'total_programmes': len(root.findall('programme'))}
+          with open('status.json', 'w') as f:
+              json.dump(status, f, indent=2)
+          print(json.dumps(status, indent=2))
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write('Guide refreshed successfully.\\n\\n' + json.dumps(status, indent=2))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add guide.xml guide.xml.gz status.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh XMLTV guide"
+          git push
