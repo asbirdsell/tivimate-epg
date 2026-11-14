@@ -2,11 +2,12 @@ name: Publish matched TV guide
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Refresh TV guide"]
+    workflows: ["Refresh TV guide", "Refresh extra channel guides"]
     types: [completed]
   push:
     paths:
       - 'channel-aliases.json'
+      - 'channel-matches.json.gz.b64'
       - 'scripts/make_matched_guide.py'
       - '.github/workflows/match.yml'
 permissions:
