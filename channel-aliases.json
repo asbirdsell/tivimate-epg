@@ -1,0 +1,3986 @@
+{
+  "BET.us@East": {
+    "aliases": [
+      "BET.us"
+    ],
+    "names": [
+      "US: BET HD",
+      "US: BET ᴿᴬᵂ"
+    ]
+  },
+  "CourtTV.us@SD": {
+    "aliases": [
+      "CourtTV.us"
+    ],
+    "names": [
+      "US: COURT TV HD",
+      "US: COURT TV ᴿᴬᵂ"
+    ]
+  },
+  "IONTV.us@East": {
+    "aliases": [],
+    "names": [
+      "US: ION",
+      "US: ION ᴿᴬᵂ"
+    ]
+  },
+  "LawCrime.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: LAW & CRIME NETWORK ᴿᴬᵂ"
+    ]
+  },
+  "Reelz.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: REELZ ᴿᴬᵂ"
+    ]
+  },
+  "ScrippsNews.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: SCRIPPS NEWS ᴿᴬᵂ"
+    ]
+  },
+  "AE.us@East": {
+    "aliases": [
+      "AandE.us"
+    ],
+    "names": [
+      "US: A&E HD"
+    ]
+  },
+  "ACCNetwork.us@SD": {
+    "aliases": [
+      "ACCNetwork.us"
+    ],
+    "names": [
+      "US: ACC NETWORK HD"
+    ]
+  },
+  "AMC.us@East": {
+    "aliases": [
+      "AMC.us"
+    ],
+    "names": [
+      "US: AMC HD",
+      "US: AMC PLUS"
+    ]
+  },
+  "AnimalPlanet.us@East": {
+    "aliases": [],
+    "names": [
+      "US: ANIMAL PLANET HD"
+    ]
+  },
+  "AnimalPlanet.us@West": {
+    "aliases": [],
+    "names": [
+      "US: ANIMAL PLANET WEST HD"
+    ]
+  },
+  "BBCAmerica.us@East": {
+    "aliases": [
+      "BBCAmerica.us"
+    ],
+    "names": [
+      "US: BBC AMERICA HD"
+    ]
+  },
+  "BETGospel.us@SD": {
+    "aliases": [
+      "BETGospel.us"
+    ],
+    "names": [
+      "US: BET GOSPEL"
+    ]
+  },
+  "BETHer.us@East": {
+    "aliases": [
+      "BetHer.us"
+    ],
+    "names": [
+      "US: BET HER HD"
+    ]
+  },
+  "BETJams.us@SD": {
+    "aliases": [
+      "BETjams.us"
+    ],
+    "names": [
+      "US: BET JAMS HD"
+    ]
+  },
+  "BETSoul.us@SD": {
+    "aliases": [
+      "BETSoul.us"
+    ],
+    "names": [
+      "US: BET SOUL"
+    ]
+  },
+  "Bravo.us@East": {
+    "aliases": [],
+    "names": [
+      "CA: BRAVO",
+      "US: BRAVO EAST HD",
+      "US: BRAVO HD"
+    ]
+  },
+  "Bravo.us@West": {
+    "aliases": [],
+    "names": [
+      "US: BRAVO WEST HD"
+    ]
+  },
+  "Charge.us@SD": {
+    "aliases": [
+      "ChargeTV.us"
+    ],
+    "names": [
+      "US: CHARGE!"
+    ]
+  },
+  "CMT.us@East": {
+    "aliases": [
+      "CMT.us"
+    ],
+    "names": [
+      "US: CMT HD"
+    ]
+  },
+  "ComedyCentral.us@East": {
+    "aliases": [
+      "ComedyCentral.us"
+    ],
+    "names": [
+      "US: COMEDY CENTRAL HD"
+    ]
+  },
+  "Comet.us@SD": {
+    "aliases": [
+      "Comet.us"
+    ],
+    "names": [
+      "US: COMET HD"
+    ]
+  },
+  "CookingChannel.us@SD": {
+    "aliases": [
+      "CookingChannel.us"
+    ],
+    "names": [
+      "US: COOKING CHANNEL HD"
+    ]
+  },
+  "CrimePlusInvestigation.ca@SD": {
+    "aliases": [
+      "CrimeInvestigation.ca",
+      "CrimeInvestigation.uk",
+      "CrimeInvestigation.us"
+    ],
+    "names": [
+      "CA EN: CRIME + INVERSTIGATION",
+      "CA: CRIME & INVESTIGATION",
+      "UK: CRIME INVESTIGATION HEVC HD",
+      "US: CRIME & INVESTIGATION HD"
+    ]
+  },
+  "DestinationAmerica.us@SD": {
+    "aliases": [
+      "DestinationAmerica.us"
+    ],
+    "names": [
+      "US: DESTINATION AMERICA HD"
+    ]
+  },
+  "DiscoveryChannel.us@East": {
+    "aliases": [
+      "DiscoveryChannel.us"
+    ],
+    "names": [
+      "US: DISCOVERY HD",
+      "US: DISCOVERY WEST HD"
+    ]
+  },
+  "DiscoveryFamily.us@SD": {
+    "aliases": [
+      "DiscoveryFamily.us"
+    ],
+    "names": [
+      "US: DISCOVERY FAMILY HD"
+    ]
+  },
+  "DiscoveryLife.us@SD": {
+    "aliases": [
+      "DiscoveryLife.us"
+    ],
+    "names": [
+      "US: DISCOVERY LIFE HD"
+    ]
+  },
+  "EWTN.us@English": {
+    "aliases": [
+      "EWTN.us"
+    ],
+    "names": [
+      "US: EWTN CATHOLIC"
+    ]
+  },
+  "TBS.us@West": {
+    "aliases": [],
+    "names": [
+      "US: TBS WEST"
+    ]
+  },
+  "FoodNetwork.us@East": {
+    "aliases": [],
+    "names": [
+      "US: FOOD NETWORK HD"
+    ]
+  },
+  "Freeform.us@West": {
+    "aliases": [],
+    "names": [
+      "US: FREEFORM WEST HD"
+    ]
+  },
+  "Freeform.us@East": {
+    "aliases": [],
+    "names": [
+      "US: FREEFORM EAST HD"
+    ]
+  },
+  "FX.us@West": {
+    "aliases": [],
+    "names": [
+      "US: FX WEST HD"
+    ]
+  },
+  "FX.us@East": {
+    "aliases": [],
+    "names": [
+      "US: FX HD"
+    ]
+  },
+  "FXX.us@East": {
+    "aliases": [],
+    "names": [
+      "US: FXX HD"
+    ]
+  },
+  "FXX.us@West": {
+    "aliases": [],
+    "names": [
+      "US: FXX WEST HD"
+    ]
+  },
+  "FYI.us@East": {
+    "aliases": [
+      "fyi.us"
+    ],
+    "names": [
+      "US: FYI HD"
+    ]
+  },
+  "GetTV.us@SD": {
+    "aliases": [
+      "GetTV.us"
+    ],
+    "names": [
+      "US: GET TV"
+    ]
+  },
+  "Grit.us@SD": {
+    "aliases": [
+      "Grit.us"
+    ],
+    "names": [
+      "US: GRIT"
+    ]
+  },
+  "GameShowNetwork.us@East": {
+    "aliases": [
+      "GameShowNetwork.us"
+    ],
+    "names": [
+      "US: GSN HD"
+    ]
+  },
+  "HallmarkMoviesMysteries.us@East": {
+    "aliases": [
+      "HallmarkMoviesMysteries.us"
+    ],
+    "names": [
+      "US: HALLMARK MOVIES/MYSTERIES 4K"
+    ]
+  },
+  "HBOComedy.us@East": {
+    "aliases": [
+      "HBOComedy.us"
+    ],
+    "names": [
+      "US: HBO COMEDY HD"
+    ]
+  },
+  "HGTV.us@East": {
+    "aliases": [],
+    "names": [
+      "US: HGTV HD"
+    ]
+  },
+  "HGTV.us@West": {
+    "aliases": [],
+    "names": [
+      "US: HGTV WEST HD"
+    ]
+  },
+  "History.us@East": {
+    "aliases": [
+      "HistoryChannel.us"
+    ],
+    "names": [
+      "US: HISTORY HD"
+    ]
+  },
+  "HLN.us@SD": {
+    "aliases": [
+      "HLN.us"
+    ],
+    "names": [
+      "US: HLN HD"
+    ]
+  },
+  "HopeChannelNorthAmerica.us@SD": {
+    "aliases": [
+      "HopeChannel.us"
+    ],
+    "names": [
+      "US: HOPE CHANNEL"
+    ]
+  },
+  "InvestigationDiscovery.us@East": {
+    "aliases": [
+      "investigationdiscovery.us"
+    ],
+    "names": [
+      "US: ID INVESTIGATION DISCOVERY HD"
+    ]
+  },
+  "IFC.us@East": {
+    "aliases": [
+      "IndependentFilmChannel.us"
+    ],
+    "names": [
+      "US: IFC HD"
+    ]
+  },
+  "Lifetime.us@East": {
+    "aliases": [
+      "LifetimeNetwork.us"
+    ],
+    "names": [
+      "US: LIFETIME HD"
+    ]
+  },
+  "Logo.us@East": {
+    "aliases": [
+      "Logo.us"
+    ],
+    "names": [
+      "US: LOGO HD"
+    ]
+  },
+  "Laff.us@SD": {
+    "aliases": [
+      "Laff.us"
+    ],
+    "names": [
+      "US:  LAFF TV  HD"
+    ]
+  },
+  "MeTV.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: ME TV"
+    ]
+  },
+  "MotorTrend.us@SD": {
+    "aliases": [
+      "MotorTrend.us"
+    ],
+    "names": [
+      "US: MOTORTREND HD"
+    ]
+  },
+  "MSG2.us@SD": {
+    "aliases": [
+      "MadisonSquareGarden2.us"
+    ],
+    "names": [
+      "US: MSG 2 HD"
+    ]
+  },
+  "MSG.us@SD": {
+    "aliases": [
+      "MadisonSquareGarden.us"
+    ],
+    "names": [
+      "US: MSG HD"
+    ]
+  },
+  "MSGPlus.us@SD": {
+    "aliases": [
+      "MadisonSquareGardenPlus.us"
+    ],
+    "names": [
+      "US: MSG PLUS HD"
+    ]
+  },
+  "MTV.us@East": {
+    "aliases": [
+      "MTV.us"
+    ],
+    "names": [
+      "US: MTV HD"
+    ]
+  },
+  "MTV2.us@East": {
+    "aliases": [
+      "MTV2.us"
+    ],
+    "names": [
+      "US: MTV 2 HD"
+    ]
+  },
+  "NationalGeographic.us@East": {
+    "aliases": [
+      "NatGeo.us"
+    ],
+    "names": [
+      "US: : NATIONAL GEOGRAPHIC HD"
+    ]
+  },
+  "MTVLive.us@SD": {
+    "aliases": [
+      "MTVLive.us"
+    ],
+    "names": [
+      "US: MTV LIVE HD"
+    ]
+  },
+  "NationalGeographicWild.us@East": {
+    "aliases": [
+      "NatGeoWild.us"
+    ],
+    "names": [
+      "US: : NATIONAL GEOGRAPHIC WILD HD"
+    ]
+  },
+  "OutdoorChannel.us@HD": {
+    "aliases": [
+      "OutdoorChannel.us"
+    ],
+    "names": [
+      "US: OUTDOOR CHANNEL HD"
+    ]
+  },
+  "Ovation.us@SD": {
+    "aliases": [
+      "Ovation.us"
+    ],
+    "names": [
+      "US: OVATION",
+      "US: OVATION HD"
+    ]
+  },
+  "OWN.us@East": {
+    "aliases": [],
+    "names": [
+      "US: OWN HD"
+    ]
+  },
+  "Oxygen.us@East": {
+    "aliases": [],
+    "names": [
+      "US: OXYGEN HD"
+    ]
+  },
+  "Oxygen.us@West": {
+    "aliases": [],
+    "names": [
+      "US: OXYGEN WEST HD"
+    ]
+  },
+  "ParamountNetwork.us@East": {
+    "aliases": [
+      "ParamountNetwork.us"
+    ],
+    "names": [
+      "US: PARAMOUNT HD"
+    ]
+  },
+  "JewelryTV.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: JEWELRY tv"
+    ]
+  },
+  "PBS.us@East": {
+    "aliases": [],
+    "names": [
+      "US: PBS HD"
+    ]
+  },
+  "Pop.us@East": {
+    "aliases": [
+      "Pop.uk"
+    ],
+    "names": [
+      "US: POP HD"
+    ]
+  },
+  "QVC.us@SD": {
+    "aliases": [
+      "QVC.us"
+    ],
+    "names": [
+      "US: QVC HD"
+    ]
+  },
+  "Revolt.us@SD": {
+    "aliases": [
+      "Revolt.us"
+    ],
+    "names": [
+      "US: REVOLT HD"
+    ]
+  },
+  "SECNetwork.us@SD": {
+    "aliases": [
+      "SECNetwork.us"
+    ],
+    "names": [
+      "US: SEC NETWORK HD"
+    ]
+  },
+  "SmithsonianChannel.us@East": {
+    "aliases": [
+      "SmithsonianChannel.us"
+    ],
+    "names": [
+      "US: SMITHSONIAN CHANNEL HD",
+      "US: SMITHSONIAN CHANNEL WEST HD"
+    ]
+  },
+  "SundanceTV.us@East": {
+    "aliases": [
+      "SundanceTV.us"
+    ],
+    "names": [
+      "US: SUNDANCE HD"
+    ]
+  },
+  "Syfy.us@East": {
+    "aliases": [],
+    "names": [
+      "US: SYFY HD"
+    ]
+  },
+  "Syfy.us@West": {
+    "aliases": [],
+    "names": [
+      "US: SYFY WEST HD"
+    ]
+  },
+  "TBN.us@East": {
+    "aliases": [
+      "TBN.us"
+    ],
+    "names": [
+      "US: TBN"
+    ]
+  },
+  "TBS.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TBS HD"
+    ]
+  },
+  "TCM.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TCM EAST",
+      "US: TCM HD"
+    ]
+  },
+  "TeenNick.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TEEN NICK"
+    ]
+  },
+  "TheWeatherChannel.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: THE WEATHER CHANNEL HD"
+    ]
+  },
+  "TLC.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TLC HD"
+    ]
+  },
+  "TLC.us@West": {
+    "aliases": [],
+    "names": [
+      "US: TLC WEST"
+    ]
+  },
+  "TNT.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TNT 4K",
+      "US: TNT EAST 4K",
+      "US: TNT HD",
+      "US: TNT SD"
+    ]
+  },
+  "TNT.us@West": {
+    "aliases": [],
+    "names": [
+      "US: TNT WEST 4K"
+    ]
+  },
+  "TravelChannel.us@East": {
+    "aliases": [
+      "TravelChannel.us"
+    ],
+    "names": [
+      "US: TRAVEL CHANNEL HD",
+      "US: TRAVEL CHANNEL WEST HD"
+    ]
+  },
+  "truTV.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TRUTV 4K"
+    ]
+  },
+  "truTV.us@West": {
+    "aliases": [],
+    "names": [
+      "US: TRUTV WEST 4K"
+    ]
+  },
+  "TVLand.us@East": {
+    "aliases": [
+      "TVLand.us"
+    ],
+    "names": [
+      "US: TV LAND HD"
+    ]
+  },
+  "TVOne.us@SD": {
+    "aliases": [
+      "TVOne.us"
+    ],
+    "names": [
+      "US: TV ONE HD"
+    ]
+  },
+  "UpTV.us@SD": {
+    "aliases": [
+      "UpliftingEntertainment.us"
+    ],
+    "names": [
+      "US: UP TV HD"
+    ]
+  },
+  "USANetwork.us@East": {
+    "aliases": [
+      "USANetwork.us"
+    ],
+    "names": [
+      "US: USA NETWORK 4K",
+      "US: USA NETWORK EAST HD",
+      "US: USA NETWORK HD",
+      "US: USA NETWORK WEST HD"
+    ]
+  },
+  "VH1.us@East": {
+    "aliases": [
+      "VH1.us"
+    ],
+    "names": [
+      "US: VH 1 4K",
+      "US: VH 1 HD"
+    ]
+  },
+  "WeTV.us@East": {
+    "aliases": [
+      "WeTV.us"
+    ],
+    "names": [
+      "US: WE TV HD"
+    ]
+  },
+  "Telemundo.us@East": {
+    "aliases": [],
+    "names": [
+      "US: TELEMUNDO ᴴᴰ"
+    ]
+  },
+  "ABCNewsLive.us@SD": {
+    "aliases": [
+      "ABCNewsLive.us"
+    ],
+    "names": [
+      "US: ABC NEWS",
+      "US: ABC NEWS LIVE HD"
+    ]
+  },
+  "ABC.us@East": {
+    "aliases": [
+      "abcwjla.us"
+    ],
+    "names": [
+      "US: ABC (EAST)",
+      "US: ABC (KABC)",
+      "US: ABC (KDNL)",
+      "US: ABC (KMGH)",
+      "US: ABC (KNXV)",
+      "US: ABC (KOCO)",
+      "US: ABC (KOMO)",
+      "US: ABC (KTNV)",
+      "US: ABC (WABC)",
+      "US: ABC (WCPO)",
+      "US: ABC (WCVB)",
+      "US: ABC (WFAA)",
+      "US: ABC (WJLA)",
+      "US: ABC (WLS)",
+      "US: ABC (WMAR)",
+      "US: ABC (WPLG)",
+      "US: ABC (WPVI)",
+      "US: ABC HD"
+    ]
+  },
+  "CNN.us@SD": {
+    "aliases": [
+      "cnn.us"
+    ],
+    "names": [
+      "US: CNN 4K",
+      "US: CNN HD"
+    ]
+  },
+  "CBS.us@East": {
+    "aliases": [
+      "WCBS.us"
+    ],
+    "names": [
+      "US: CBS (KPHO)",
+      "US: CBS (KTVT)",
+      "US: CBS (KTXA)",
+      "US: CBS (KWTV)",
+      "US: CBS (KYW)",
+      "US: CBS (WBBM)",
+      "US: CBS (WBTV)",
+      "US: CBS (WBZ)",
+      "US: CBS (WCBS)",
+      "US: CBS (WCCO)",
+      "US: CBS (WFOR)",
+      "US: CBS (WGCL)",
+      "US: CBS (WJZ)",
+      "US: CBS (WKRC)",
+      "US: CBS (WLNY)",
+      "US: CBS (WTVF)",
+      "US: CBS (WUSA)",
+      "US: CBS (WWJ)",
+      "US: CBS (WWL)",
+      "US: CBS HD"
+    ]
+  },
+  "Fox.us@East": {
+    "aliases": [],
+    "names": [
+      "US: FOX (KCPQ)",
+      "US: FOX (KDFW)",
+      "US: FOX (KDVR)",
+      "US: FOX (KMSP)",
+      "US: FOX (KOKH)",
+      "US: FOX (KRIV)",
+      "US: FOX (KSAZ)",
+      "US: FOX (KTBC)",
+      "US: FOX (KTTV)",
+      "US: FOX (KTVI)",
+      "US: FOX (KVVU)",
+      "US: FOX (WBFF)",
+      "US: FOX (WFLD)",
+      "US: FOX (WFXT)",
+      "US: FOX (WITI)",
+      "US: FOX (WJBK)",
+      "US: FOX (WJZY)",
+      "US: FOX (WOFL)",
+      "US: FOX (WOGX)",
+      "US: FOX (WPGH)",
+      "US: FOX (WSVN)",
+      "US: FOX (WTVT)",
+      "US: FOX (WTXF)",
+      "US: FOX (WVUE)",
+      "US: FOX (WZTV)",
+      "US: FOX HD"
+    ]
+  },
+  "FoxNewsChannel.us@SD": {
+    "aliases": [
+      "FoxNews.us",
+      "foxnews.us"
+    ],
+    "names": [
+      "US: FOX NEWS CHANNEL 4K",
+      "US: FOX NEWS HD",
+      "US: FOX NEWS. UHD"
+    ]
+  },
+  "FoxBusinessNetwork.us@SD": {
+    "aliases": [
+      "FoxBusiness.us",
+      "foxbusiness.us"
+    ],
+    "names": [
+      "US: FOX BUSINESS NETWORK HD"
+    ]
+  },
+  "MSNBC.us@SD": {
+    "aliases": [
+      "msnbc.us"
+    ],
+    "names": [
+      "US: MSNBC HD"
+    ]
+  },
+  "NewsNation.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: NEWS NATION HD"
+    ]
+  },
+  "MagnoliaNetwork.us@East": {
+    "aliases": [
+      "MagnoliaNetwork.us"
+    ],
+    "names": [
+      "US: Magnolia Network West (Y) HD"
+    ]
+  },
+  "HBO.us@East": {
+    "aliases": [],
+    "names": [
+      "US: HBO HD"
+    ]
+  },
+  "HBO2.us@East": {
+    "aliases": [
+      "HBO2.us"
+    ],
+    "names": [
+      "US: HBO 2 HD"
+    ]
+  },
+  "HBOFamily.us@East": {
+    "aliases": [
+      "HBOFamily.us"
+    ],
+    "names": [
+      "US: HBO FAMILY HD"
+    ]
+  },
+  "HBOSignature.us@East": {
+    "aliases": [
+      "HBOSignature.us"
+    ],
+    "names": [
+      "US: HBO SIGNATURE HD"
+    ]
+  },
+  "HBO.us@West": {
+    "aliases": [],
+    "names": [
+      "US: HBO WEST HD"
+    ]
+  },
+  "HBOZone.us@East": {
+    "aliases": [
+      "HBOZone.us"
+    ],
+    "names": [
+      "US: HBO ZONE HD"
+    ]
+  },
+  "FoodNetwork.us@West": {
+    "aliases": [],
+    "names": [
+      "US: FOOD NETWORK WEST HD"
+    ]
+  },
+  "ActionMax.us@East": {
+    "aliases": [
+      "ActionMax.us"
+    ],
+    "names": [
+      "US: ACTION MAX HD"
+    ]
+  },
+  "Showtime.us@East": {
+    "aliases": [
+      "Showtime.us"
+    ],
+    "names": [
+      "US: SHOWTIME EAST HD",
+      "US: SHOWTIME HD"
+    ]
+  },
+  "Showtime2.us@East": {
+    "aliases": [
+      "Showtime2.us"
+    ],
+    "names": [
+      "US: SHOWTIME 2 HD"
+    ]
+  },
+  "ShowtimeNext.us@East": {
+    "aliases": [
+      "ShowtimeNext.us"
+    ],
+    "names": [
+      "US: SHOWTIME NEXT HD"
+    ]
+  },
+  "ShowtimeWomen.us@East": {
+    "aliases": [
+      "ShowtimeWomen.us"
+    ],
+    "names": [
+      "US: SHOWTIME WOMEN HD"
+    ]
+  },
+  "ShowtimeExtreme.us@East": {
+    "aliases": [
+      "ShowtimeExtreme.us"
+    ],
+    "names": [
+      "US: SHOWTIME EXTREME HD"
+    ]
+  },
+  "ShowtimeShowcase.us@East": {
+    "aliases": [
+      "ShowtimeShowcase.us"
+    ],
+    "names": [
+      "US: SHOWTIME SHOWCASE HD"
+    ]
+  },
+  "ShowtimeFamilyZone.us@East": {
+    "aliases": [
+      "ShowtimeFamilyZone.us"
+    ],
+    "names": [
+      "US: SHOWTIME FAMILY ZONE HD"
+    ]
+  },
+  "TheMovieChannel.us@East": {
+    "aliases": [
+      "TMC.us"
+    ],
+    "names": [
+      "US: THE MOVIE CHANNEL HD"
+    ]
+  },
+  "Cinemax.us@East": {
+    "aliases": [],
+    "names": [
+      "US: CINEMAX EAST HD",
+      "US: CINEMAX HD",
+      "US: CINEMAX MOREMAX HDAR",
+      "US: CINEMAX THRILLERMAX HD"
+    ]
+  },
+  "Cinemax.us@West": {
+    "aliases": [],
+    "names": [
+      "US: CINEMAX WEST HD"
+    ]
+  },
+  "MoreMax.us@East": {
+    "aliases": [
+      "MoreMax.us"
+    ],
+    "names": [
+      "US: MOREMAX HD"
+    ]
+  },
+  "MovieMax.us@East": {
+    "aliases": [
+      "MovieMax.us"
+    ],
+    "names": [
+      "US: MOVIEMAX HD"
+    ]
+  },
+  "OuterMax.us@East": {
+    "aliases": [
+      "OuterMax.us"
+    ],
+    "names": [
+      "US: OUTERMAX HD"
+    ]
+  },
+  "FXMovieChannel.us@SD": {
+    "aliases": [
+      "FXMovieChannel.us"
+    ],
+    "names": [
+      "US: FX MOVIES"
+    ]
+  },
+  "Starz.us@East": {
+    "aliases": [
+      "Starz.us"
+    ],
+    "names": [
+      "US: STARZ EAST HD",
+      "US: STARZ HD"
+    ]
+  },
+  "StarzCinema.us@East": {
+    "aliases": [
+      "StarzCinema.us"
+    ],
+    "names": [
+      "US: STARZ CINEMA EAST HD",
+      "US: STARZ CINEMA HD"
+    ]
+  },
+  "StarzComedy.us@East": {
+    "aliases": [
+      "StarzComedy.us"
+    ],
+    "names": [
+      "US: STARZ COMEDY HD"
+    ]
+  },
+  "Starz.us@West": {
+    "aliases": [],
+    "names": [
+      "US: STARZ WEST HD"
+    ]
+  },
+  "StarzEdge.us@East": {
+    "aliases": [
+      "StarzEdge.us"
+    ],
+    "names": [
+      "US: STARZ EDGE HD"
+    ]
+  },
+  "StarzEncoreFamily.us@East": {
+    "aliases": [
+      "StarzEncoreFamily.us"
+    ],
+    "names": [
+      "US: STARZ ENCORE FAMILY HD",
+      "US: STARZ FAMILY HD"
+    ]
+  },
+  "StarzEncore.us@East": {
+    "aliases": [],
+    "names": [
+      "US: STARZ ENCORE EAST HD",
+      "US: STARZ ENCORE HD"
+    ]
+  },
+  "StarzEncoreAction.us@East": {
+    "aliases": [
+      "StarzEncoreAction.us"
+    ],
+    "names": [
+      "US: STARZ ENCORE ACTION HD"
+    ]
+  },
+  "StarzEncoreBlack.us@East": {
+    "aliases": [
+      "StarzEncoreBlack.us"
+    ],
+    "names": [
+      "US: STARZ ENCORE BLACK HD"
+    ]
+  },
+  "StarzEncoreClassic.us@East": {
+    "aliases": [
+      "StarzEncoreClassics.us"
+    ],
+    "names": [
+      "US: STARZ ENCORE CLASSIC HD"
+    ]
+  },
+  "StarzKidsFamily.us@East": {
+    "aliases": [
+      "StarzKidsFamily.us"
+    ],
+    "names": [
+      "US: STARZ KIDS & FAMILY HD"
+    ]
+  },
+  "StarzEncoreWesterns.us@East": {
+    "aliases": [
+      "StarzEncoreWesterns.us"
+    ],
+    "names": [
+      "US: STARZ ENCORE WESTERNS HD"
+    ]
+  },
+  "StarzEncore.us@West": {
+    "aliases": [],
+    "names": [
+      "US: STARZ ENCORE WEST HD"
+    ]
+  },
+  "CNBC.us@SD": {
+    "aliases": [
+      "CNBC.us"
+    ],
+    "names": [
+      "US: CNBC HD"
+    ]
+  },
+  "CartoonNetwork.us@East": {
+    "aliases": [],
+    "names": [
+      "US: CARTOON NETWORK EAST HD",
+      "US: CARTOON NETWORK HD"
+    ]
+  },
+  "CartoonNetwork.us@West": {
+    "aliases": [],
+    "names": [
+      "US: CARTOON NETWORK WEST HD"
+    ]
+  },
+  "DisneyChannel.us@East": {
+    "aliases": [],
+    "names": [
+      "US: DISNEY CHANNEL HD"
+    ]
+  },
+  "DisneyChannel.us@West": {
+    "aliases": [],
+    "names": [
+      "US: DISNEY CHANNEL WEST HD"
+    ]
+  },
+  "DisneyJunior.us@East": {
+    "aliases": [
+      "DisneyJunior.us"
+    ],
+    "names": [
+      "US: DISNEY JR HD"
+    ]
+  },
+  "DisneyXD.us@East": {
+    "aliases": [
+      "DisneyXD.us"
+    ],
+    "names": [
+      "US: DISNEY XD HD"
+    ]
+  },
+  "Nicktoons.us@East": {
+    "aliases": [
+      "Nicktoons.us"
+    ],
+    "names": [
+      "US: NICK TOONS HD"
+    ]
+  },
+  "NickJr.us@East": {
+    "aliases": [],
+    "names": [
+      "US: Nick JR HD"
+    ]
+  },
+  "Nickelodeon.us@East": {
+    "aliases": [],
+    "names": [
+      "US: NICKELODEON HD"
+    ]
+  },
+  "Nickelodeon.us@West": {
+    "aliases": [],
+    "names": [
+      "US: NICKELODEON WEST HD"
+    ]
+  },
+  "Boomerang.us@SD": {
+    "aliases": [
+      "Boomerang.us"
+    ],
+    "names": [
+      "US: BOOMERANG HD"
+    ]
+  },
+  "PBSKids.us@SD": {
+    "aliases": [
+      "PBSKids.us"
+    ],
+    "names": [
+      "US: PBS KIDS"
+    ]
+  },
+  "FoxWeather.us@SD": {
+    "aliases": [
+      "FoxWeather.us"
+    ],
+    "names": [
+      "US: FOX WEATHER HD"
+    ]
+  },
+  "FoxSports1.us@HD": {
+    "aliases": [
+      "FoxSports1.us"
+    ],
+    "names": [
+      "US: FOX SPORTS 1",
+      "US: FOX SPORTS 1 4K",
+      "US: FOX SPORTS 1 HD"
+    ]
+  },
+  "FoxSports2.us@HD": {
+    "aliases": [
+      "FoxSports2.us"
+    ],
+    "names": [
+      "US: FOX SPORTS 2",
+      "US: FOX SPORTS 2 4K",
+      "US: FOX SPORTS 2 HD"
+    ]
+  },
+  "FoxDeportes.us@SD": {
+    "aliases": [
+      "FoxDeportes.us"
+    ],
+    "names": [
+      "US: FOX DEPORTES"
+    ]
+  },
+  "FoxSoccerPlus.us@SD": {
+    "aliases": [
+      "FoxSoccerPlus.us"
+    ],
+    "names": [
+      "US: FOX SOCCER PLUS HD"
+    ]
+  },
+  "NFLNetwork.us@SD": {
+    "aliases": [
+      "NFLNetwork.us"
+    ],
+    "names": [
+      "US: NFL NETWORK HD",
+      "US: NFL NETWORK ᴴᴰ"
+    ]
+  },
+  "ESPNews.us@SD": {
+    "aliases": [
+      "ESPNNews.us"
+    ],
+    "names": [
+      "US: ESPN NEWS HD"
+    ]
+  },
+  "ESPN.us@SD": {
+    "aliases": [
+      "ESPN.us"
+    ],
+    "names": [
+      "US: ESPN HD",
+      "US: ESPN USA HD"
+    ]
+  },
+  "ESPN2.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: ESPN 2 HD"
+    ]
+  },
+  "ESPNU.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: ESPN U HD"
+    ]
+  },
+  "Fuse.us@East": {
+    "aliases": [
+      "FuseTV.us"
+    ],
+    "names": [
+      "US: FUSE HD"
+    ]
+  },
+  "GolfChannel.us@SD": {
+    "aliases": [
+      "GolfChannel.us"
+    ],
+    "names": [
+      "US: GOLF CHANNEL HD"
+    ]
+  },
+  "BigTenNetwork.us@SD": {
+    "aliases": [
+      "BigTenNetwork.us"
+    ],
+    "names": [
+      "US: BIG TEN NETWORK HD"
+    ]
+  },
+  "MLBNetwork.us@SD": {
+    "aliases": [
+      "MLBNetwork.us"
+    ],
+    "names": [
+      "US: MLB NETWORK"
+    ]
+  },
+  "TennisChannel.us@SD": {
+    "aliases": [
+      "TennisChannel.us"
+    ],
+    "names": [
+      "US: TENNIS CHANNEL",
+      "US: TENNIS CHANNEL PLUS 9",
+      "US: TENNIS HD"
+    ]
+  },
+  "HSN.us@East": {
+    "aliases": [
+      "HomeShoppingNetwork.us"
+    ],
+    "names": [
+      "US: HSN"
+    ]
+  },
+  "ShopLC.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: SHOP LC 4K"
+    ]
+  },
+  "YesNetwork.us@SD": {
+    "aliases": [
+      "YESNetwork.us"
+    ],
+    "names": [
+      "US: YES NETWORK HD"
+    ]
+  },
+  "NHLNetwork.us@SD": {
+    "aliases": [],
+    "names": [
+      "US: NHL NETWORK"
+    ]
+  },
+  "addikTV.ca@SD": {
+    "aliases": [
+      "AddikTV.ca"
+    ],
+    "names": [
+      "CA FR: ADDIK TV HD",
+      "CA: ADDIK TV"
+    ]
+  },
+  "AnimalPlanet.ca@HD": {
+    "aliases": [
+      "AnimalPlanet.ca"
+    ],
+    "names": [
+      "CA EN: ANIMAL PLANET HD",
+      "CA: ANIMAL PLANET"
+    ]
+  },
+  "BET.ca@SD": {
+    "aliases": [
+      "BET.ca",
+      "BET.fr"
+    ],
+    "names": [
+      "CA FR: BET",
+      "CA: BET"
+    ]
+  },
+  "BNNBloomberg.ca@SD": {
+    "aliases": [
+      "BNNBloomberg.ca",
+      "BusinessNewsNetworkBloomberg.ca"
+    ],
+    "names": [
+      "CA EN: BUSINESS NEWS NETWORK HD",
+      "CA: BNN"
+    ]
+  },
+  "CanalD.ca@SD": {
+    "aliases": [
+      "CanalD.ca"
+    ],
+    "names": [
+      "CA FR: CANAL D HD",
+      "CA: CANAL D"
+    ]
+  },
+  "TVPassport-9662.ca": {
+    "aliases": [],
+    "names": [
+      "CA: CTV LETHBRIDGE"
+    ]
+  },
+  "CBRTDT.ca@SD": {
+    "aliases": [
+      "CBRT.ca"
+    ],
+    "names": [
+      "CA EN: CBC CALGARY HD",
+      "CA: CBC CALGARY"
+    ]
+  },
+  "GlobalNewsBC1.ca@SD": {
+    "aliases": [
+      "GlobalBC.ca",
+      "GlobalNewsBC1.ca",
+      "globalnewsbc1.ca"
+    ],
+    "names": [
+      "CA EN: GLOBAL NEWS BC HD",
+      "CA EN: GLOBAL NEWS NATIONAL HD",
+      "CA EN: GLOBAL NEWS PETERBOROUGH HD",
+      "CA EN: GLOBAL NEWS REGINA HD",
+      "CA: GLOBAL BC",
+      "CA: GLOBAL NEWS"
+    ]
+  },
+  "CBMTDT.ca@SD": {
+    "aliases": [
+      "CBMT.ca"
+    ],
+    "names": [
+      "CA EN: CBC MONTREALHD",
+      "CA FR: CBC MONTREAL HD",
+      "CA: CBC MONTREAL"
+    ]
+  },
+  "CBCNewsNetwork.ca@SD": {
+    "aliases": [
+      "CBCNews.ca"
+    ],
+    "names": [
+      "CA EN: CBC NEWS NETWORK HD",
+      "CA: CBC NEWS"
+    ]
+  },
+  "CBOTDT.ca@SD": {
+    "aliases": [
+      "CBCOttawa.ca"
+    ],
+    "names": [
+      "CA EN: CBC OTTAWA HD",
+      "CA: CBC OTTAWA"
+    ]
+  },
+  "CBLTDT.ca@SD": {
+    "aliases": [
+      "CBC.ca"
+    ],
+    "names": [
+      "CA EN: CBC TORONTO HD",
+      "CA: CBC TORONTO"
+    ]
+  },
+  "CBUTDT.ca@SD": {
+    "aliases": [
+      "CBUT.ca"
+    ],
+    "names": [
+      "CA EN: CBC VANCOUVER HD",
+      "CA: CBC VANCOUVER"
+    ]
+  },
+  "CHCHDT.ca@SD": {
+    "aliases": [
+      "CHCH.ca"
+    ],
+    "names": [
+      "CA: CHCH"
+    ]
+  },
+  "Cinepop.ca@SD": {
+    "aliases": [
+      "Cinepop.ca"
+    ],
+    "names": [
+      "CA FR: CINEPOP HD",
+      "CA: CINEPOP"
+    ]
+  },
+  "CMT.ca@SD": {
+    "aliases": [
+      "CMT.ca"
+    ],
+    "names": [
+      "CA EN: CMT SD (CA)",
+      "CA: CMT CANADA"
+    ]
+  },
+  "CookingChannel.ca@SD": {
+    "aliases": [
+      "CookingChannel.ca"
+    ],
+    "names": [
+      "CA: COOKING CHANNEL"
+    ]
+  },
+  "CottageLife.ca@SD": {
+    "aliases": [
+      "cottagelife.ca"
+    ],
+    "names": [
+      "CA: COTTAGE LIFE"
+    ]
+  },
+  "CP24.ca@SD": {
+    "aliases": [
+      "Cp24.ca"
+    ],
+    "names": [
+      "CA EN: CP24 HD (R)",
+      "CA EN: CP24 HD (R) BACKUP",
+      "CA: CP24 HD"
+    ]
+  },
+  "CPACFrench.ca@SD": {
+    "aliases": [
+      "CPAC.ca"
+    ],
+    "names": [
+      "CA EN: CPAC HD",
+      "CA: CPAC",
+      "CA: CPAC FRENCH"
+    ]
+  },
+  "Crave1.ca@SD": {
+    "aliases": [
+      "Crave1.ca"
+    ],
+    "names": [
+      "CA EN: CRAVE1 HD",
+      "CA: CRAVE 1 / TMN 1"
+    ]
+  },
+  "Crave4.ca@SD": {
+    "aliases": [
+      "Crave4.ca"
+    ],
+    "names": [
+      "CA EN: CRAVE4 HD",
+      "CA: CRAVE 4 / TMN 4"
+    ]
+  },
+  "CTVDramaChannel.ca@SD": {
+    "aliases": [
+      "CTVDrama.ca"
+    ],
+    "names": [
+      "CA: CTV Drama Channel"
+    ]
+  },
+  "CTVNewsChannel.ca@SD": {
+    "aliases": [
+      "CTVNC.ca"
+    ],
+    "names": [
+      "CA EN: CTV NEWS CHANNEL",
+      "CA EN: CTV NEWS CHANNEL HD",
+      "CA: CTV NEWS NETWORK"
+    ]
+  },
+  "TVPassport-8380.ca": {
+    "aliases": [
+      "CFCF.ca"
+    ],
+    "names": [
+      "CA: CTV MONTREAL HD"
+    ]
+  },
+  "TVPassport-8375.ca": {
+    "aliases": [
+      "ctvsudbury.ca"
+    ],
+    "names": [
+      "CA EN: CTV Sudbury HD",
+      "CA:  CTV Sudbury HD"
+    ]
+  },
+  "TVPassport-33563.ca": {
+    "aliases": [],
+    "names": [
+      "CA: CTV Timmins HD"
+    ]
+  },
+  "TVPassport-7174.ca": {
+    "aliases": [
+      "CTVOH.ca"
+    ],
+    "names": [
+      "CA EN: CTV OTTAWA HD",
+      "CA: CTV OTTAWA"
+    ]
+  },
+  "TVPassport-3931.ca": {
+    "aliases": [
+      "CTVHT.ca"
+    ],
+    "names": [
+      "CA EN: CTV TORONTO HD (CFTO)",
+      "CA: CTV TORONTO"
+    ]
+  },
+  "CTVComedyChannel.ca@SD": {
+    "aliases": [
+      "CTVComedy.ca"
+    ],
+    "names": [
+      "CA: CTV Comedy HD"
+    ]
+  },
+  "TVPassport-7596.ca": {
+    "aliases": [],
+    "names": [
+      "CA: GLOBAL CALGARY"
+    ]
+  },
+  "TVPassport-13808.ca": {
+    "aliases": [
+      "CIII.ca",
+      "globaltoronto.ca"
+    ],
+    "names": [
+      "CA EN: GLOBAL TORONTO HD",
+      "CA: GLOBAL TORONTO"
+    ]
+  },
+  "DejaView.ca@SD": {
+    "aliases": [
+      "DejaView.ca"
+    ],
+    "names": [
+      "CA: DEJAVIEW"
+    ]
+  },
+  "DiscoveryChannel.ca@SD": {
+    "aliases": [
+      "DiscoveryChannel.ca"
+    ],
+    "names": [
+      "CA EN: DISCOVERY HD",
+      "CA: DISCOVERY CANADA"
+    ]
+  },
+  "DiscoveryScience.ca@SD": {
+    "aliases": [
+      "DiscoveryScience.ca",
+      "discoveryscience.ca"
+    ],
+    "names": [
+      "CA EN: DISCOVERY SCIENCE",
+      "CA: CTV NATURE CANADA"
+    ]
+  },
+  "DisneyChannel.ca@East": {
+    "aliases": [
+      "DisneyChannel.ca"
+    ],
+    "names": [
+      "CA EN:  DISNEY CHANNEL HD",
+      "CA FR: DISNEY HD",
+      "CA: DISNEY CHANNEL"
+    ]
+  },
+  "DisneyJunior.ca@SD": {
+    "aliases": [
+      "DisneyJunior.ca"
+    ],
+    "names": [
+      "CA EN: DISNEY JUNIOR HD",
+      "CA: DISNEY JUNIOR",
+      "CA: DISNEY JUNIOR FRANCE"
+    ]
+  },
+  "DocumentaryChannel.ca@SD": {
+    "aliases": [
+      "DocumentaryChannel.ca"
+    ],
+    "names": [
+      "CA: DOCUMENTARY"
+    ]
+  },
+  "DTour.ca@SD": {
+    "aliases": [
+      "Dtour.ca"
+    ],
+    "names": [
+      "CA EN: DTOUR HD",
+      "CA: DTOUR"
+    ]
+  },
+  "Evasion.ca@SD": {
+    "aliases": [
+      "CanalEvasion.ca"
+    ],
+    "names": [
+      "CA FR: EVASION HD",
+      "CA: EVASION"
+    ]
+  },
+  "FamilyJr.ca@SD": {
+    "aliases": [
+      "FamilyJr.ca"
+    ],
+    "names": [
+      "CA EN: FAMILY JR",
+      "CA: FAMILY JR"
+    ]
+  },
+  "FightNetwork.ca@SD": {
+    "aliases": [
+      "FightNetwork.ca"
+    ],
+    "names": [
+      "CA: FIGHT NETWORK"
+    ]
+  },
+  "FoodNetwork.ca@SD": {
+    "aliases": [
+      "FoodNetwork.ca"
+    ],
+    "names": [
+      "CA EN: FOOD NETWORK HD",
+      "CA: FOOD NETWORK"
+    ]
+  },
+  "InvestigationDiscovery.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA: INVESTIGATION DISCOVERY"
+    ]
+  },
+  "FrissonsTV.ca@SD": {
+    "aliases": [
+      "FrissonsTV.ca"
+    ],
+    "names": [
+      "CA FR: FRISSON HD",
+      "CA: FRISSON"
+    ]
+  },
+  "CTVSciFiChannel.ca@SD": {
+    "aliases": [
+      "ctvscifichannel.ca"
+    ],
+    "names": [
+      "CA: CTV SCIFI HD"
+    ]
+  },
+  "GameTV.ca@SD": {
+    "aliases": [
+      "GameTV.ca"
+    ],
+    "names": [
+      "CA EN: GAME TV HD",
+      "CA: GAMETV"
+    ]
+  },
+  "GINXEsportsTVCanada.ca@SD": {
+    "aliases": [
+      "GINXeSportsTVCanada.ca"
+    ],
+    "names": [
+      "CA: GINX ESPORTS TV"
+    ]
+  },
+  "History2.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA EN: H2 HD",
+      "CA: H2 CANADA"
+    ]
+  },
+  "HBO1.ca@SD": {
+    "aliases": [
+      "HBO.ca"
+    ],
+    "names": [
+      "CA EN: HBO 1 (R)",
+      "CA: HBO 1"
+    ]
+  },
+  "HGTV.ca@SD": {
+    "aliases": [
+      "HGTV.ca"
+    ],
+    "names": [
+      "CA: HGTV"
+    ]
+  },
+  "Historia.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: HISTORIA",
+      "CA FR: HISTORIA HD",
+      "CA: HISTORIA"
+    ]
+  },
+  "History.ca@SD": {
+    "aliases": [
+      "historia.ca"
+    ],
+    "names": [
+      "CA EN: HISTORY HD",
+      "CA: HISTORY"
+    ]
+  },
+  "LCN.ca@SD": {
+    "aliases": [
+      "LeCanalNouvelles.ca"
+    ],
+    "names": [
+      "CA FR: LCN",
+      "CA FR: LCN HD",
+      "CA: LCN"
+    ]
+  },
+  "Lifetime.ca@SD": {
+    "aliases": [
+      "LifetimeTV.ca"
+    ],
+    "names": [
+      "CA EN: LIFETIME HD",
+      "CA: LIFETIME"
+    ]
+  },
+  "Makeful.ca@SD": {
+    "aliases": [
+      "Makeful.ca"
+    ],
+    "names": [
+      "CA EN: MAKEFUL SD",
+      "CA: MAKEFUL"
+    ]
+  },
+  "Max.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: MAX HD",
+      "CA: MAX"
+    ]
+  },
+  "MovieTime.ca@SD": {
+    "aliases": [
+      "MovieTime.ca"
+    ],
+    "names": [
+      "CA EN: MOVIE TIME",
+      "CA: MOVIETIME"
+    ]
+  },
+  "MTV.ca@SD": {
+    "aliases": [
+      "MTV.ca"
+    ],
+    "names": [
+      "CA EN: MTV HD",
+      "CA: MTV"
+    ]
+  },
+  "MTV2.ca@SD": {
+    "aliases": [
+      "MTV2.ca"
+    ],
+    "names": [
+      "CA: MTV 2"
+    ]
+  },
+  "Much.ca@SD": {
+    "aliases": [
+      "MuchMusic.ca"
+    ],
+    "names": [
+      "CA EN: MUCH_MUSIC",
+      "CA: MUCH MUSIC"
+    ]
+  },
+  "NationalGeographic.ca@SD": {
+    "aliases": [
+      "NatGeo.ca",
+      "natgeo.ca"
+    ],
+    "names": [
+      "CA EN: NATIONAL GEOGRAPHIC HD",
+      "CA: NAT GEO",
+      "UK: NATIONAL GEO HEVC 4K",
+      "UK: NATIONAL GEO HEVC HD"
+    ]
+  },
+  "NBATVCanada.ca@SD": {
+    "aliases": [
+      "NBATV.ca"
+    ],
+    "names": [
+      "CA EN: NBA TV HD",
+      "CA: NBA TV"
+    ]
+  },
+  "OLN.ca@SD": {
+    "aliases": [
+      "OutdoorLifeNetwork.ca"
+    ],
+    "names": [
+      "CA: OLN"
+    ]
+  },
+  "CFMTDT.ca@SD": {
+    "aliases": [
+      "omni1.ca"
+    ],
+    "names": [
+      "CA EN: OMNI 1",
+      "CA: OMNI 1"
+    ]
+  },
+  "OUTtv.ca@SD": {
+    "aliases": [
+      "OutTV.ca"
+    ],
+    "names": [
+      "CA: OUT TV"
+    ]
+  },
+  "OWN.ca@SD": {
+    "aliases": [
+      "OprahWinfreyNetwork.ca"
+    ],
+    "names": [
+      "CA EN: OWN HD",
+      "CA: OWN"
+    ]
+  },
+  "Prise2.ca@SD": {
+    "aliases": [
+      "Prise2.ca"
+    ],
+    "names": [
+      "CA FR: PRISE 2",
+      "CA FR: PRISE2 HD",
+      "CA: PRISE 2"
+    ]
+  },
+  "IciRDI.ca@SD": {
+    "aliases": [
+      "ICIRadioCanadaMontreal.ca",
+      "RDINews.ca"
+    ],
+    "names": [
+      "CA FR: ICI RDI HD",
+      "CA FR: RDI HD",
+      "CA: ICI RDI"
+    ]
+  },
+  "RDS.ca@SD": {
+    "aliases": [
+      "RDS.ca"
+    ],
+    "names": [
+      "CA FR: RDS",
+      "CA FR: RDS HD",
+      "CA: RDS"
+    ]
+  },
+  "RDS2.ca@SD": {
+    "aliases": [
+      "RDS2.ca"
+    ],
+    "names": [
+      "CA FR: RDS 2",
+      "CA FR: RDS2 HD",
+      "CA: RDS 2"
+    ]
+  },
+  "RDSInfo.ca@SD": {
+    "aliases": [
+      "RDSInfo.ca"
+    ],
+    "names": [
+      "CA FR: RDS INFO",
+      "CA: RDS INFO"
+    ]
+  },
+  "SeriesPlus.ca@SD": {
+    "aliases": [
+      "SeriesPlus.ca"
+    ],
+    "names": [
+      "CA FR: SERIES+ HD",
+      "CA: SERIES PLUS"
+    ]
+  },
+  "SilverScreenClassics.ca@SD": {
+    "aliases": [
+      "SilverScreenClassics.ca"
+    ],
+    "names": [
+      "CA EN: SILVER SCREEN CLASSICS HD",
+      "CA: SILVER SCREEN CLASSICS"
+    ]
+  },
+  "Slice.ca@SD": {
+    "aliases": [
+      "Slice.ca"
+    ],
+    "names": [
+      "CA EN: SLICE HD",
+      "CA: SLICE"
+    ]
+  },
+  "SuperChannelVault.ca@SD": {
+    "aliases": [
+      "SuperChannelVAULT.ca"
+    ],
+    "names": [
+      "CA EN: SUPER CHANNEL VAULT HD",
+      "CA: SUPER CHANNEL VAULT"
+    ]
+  },
+  "SuperEcran2.ca@SD": {
+    "aliases": [
+      "SuperEcran2.ca"
+    ],
+    "names": [
+      "CA FR: SUPER ECRAN 2",
+      "CA FR: SUPER ECRAN 2 HD",
+      "CA: SUPER ECRAN 2"
+    ]
+  },
+  "TCM.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA EN: TCM",
+      "CA: TCM"
+    ]
+  },
+  "SuperEcran4.ca@SD": {
+    "aliases": [
+      "SuperEcran4.ca",
+      "Telemag.ca"
+    ],
+    "names": [
+      "CA FR: SUPER ECRAN 4",
+      "CA FR: SUPER ECRAN 4 HD",
+      "CA: SUPER ECRAN 4"
+    ]
+  },
+  "SmithsonianChannel.ca@SD": {
+    "aliases": [
+      "Smithsonian.ca"
+    ],
+    "names": [
+      "CA: SMITHSONIAN"
+    ]
+  },
+  "TeletoonFrench.ca@SD": {
+    "aliases": [
+      "TeletoonFrench.ca"
+    ],
+    "names": [
+      "CA FR: TELETOON FRENCH HD",
+      "CA FR: TELETOON HD",
+      "CA: TELE TOON FRENCH"
+    ]
+  },
+  "Telemagino.ca@SD": {
+    "aliases": [
+      "Telemagino.ca"
+    ],
+    "names": [
+      "CA FR: TELEMAGINO",
+      "CA FR: TELEMAGINO HD",
+      "CA: TELEMAGINO"
+    ]
+  },
+  "CHLFTV.ca@SD": {
+    "aliases": [
+      "TFO.ca"
+    ],
+    "names": [
+      "CA FR: TFO",
+      "CA: TFO"
+    ]
+  },
+  "WNetwork.ca@East": {
+    "aliases": [
+      "WNetwork.ca",
+      "wnetwork.ca"
+    ],
+    "names": [
+      "CA EN: W-NETWORK",
+      "CA: W NETWORK"
+    ]
+  },
+  "TLN.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA: TLN"
+    ]
+  },
+  "CTVLifeChannel.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA: CTV LIFE"
+    ]
+  },
+  "TPlusE.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA: TRAVEL AND ESCAPE"
+    ]
+  },
+  "TreehouseTV.ca@SD": {
+    "aliases": [
+      "Treehouse.ca"
+    ],
+    "names": [
+      "CA EN: TREE HOUSE",
+      "CA: TREEHOUSE"
+    ]
+  },
+  "TVASports.ca@SD": {
+    "aliases": [
+      "TVASports.ca"
+    ],
+    "names": [
+      "CA FR: TVA SPORTS HD",
+      "CA: TVA SPORTS"
+    ]
+  },
+  "TVASports2.ca@SD": {
+    "aliases": [
+      "TVASports2.ca"
+    ],
+    "names": [
+      "CA FR: TVA SPORTS 2 HD",
+      "CA: TVA SPORTS 2 HD"
+    ]
+  },
+  "TSC.ca@SD": {
+    "aliases": [
+      "TodaysShoppingChoice.ca"
+    ],
+    "names": [
+      "CA: TSC"
+    ]
+  },
+  "Unis.ca@SD": {
+    "aliases": [
+      "UnisTV.ca"
+    ],
+    "names": [
+      "CA FR: UNIS TV HD",
+      "CA: UNIS TV"
+    ]
+  },
+  "VisionTV.ca@SD": {
+    "aliases": [
+      "Vision.ca"
+    ],
+    "names": [
+      "CA EN: VISION HD",
+      "CA: VISION"
+    ]
+  },
+  "WildTV.ca@SD": {
+    "aliases": [
+      "NatGeoWild.ca"
+    ],
+    "names": [
+      "CA: WILD TV"
+    ]
+  },
+  "Yoopa.ca@SD": {
+    "aliases": [
+      "Yoopa.ca"
+    ],
+    "names": [
+      "CA FR: YOOPA HD",
+      "CA: YOOPA"
+    ]
+  },
+  "YTV.ca@East": {
+    "aliases": [],
+    "names": [
+      "CA EN: YTV EAST HD",
+      "CA: YTV"
+    ]
+  },
+  "CanalVie.ca@SD": {
+    "aliases": [
+      "CanalVie.ca"
+    ],
+    "names": [
+      "CA FR: CANAL VIE HD"
+    ]
+  },
+  "IciExplora.ca@SD": {
+    "aliases": [
+      "Explora.ca"
+    ],
+    "names": [
+      "CA EN: ICI EXPLORA",
+      "CA FR: ICI EXPLORA HD"
+    ]
+  },
+  "LegislativeAssemblyofOntario.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: LEGISLATIVE ASSEMBLY OF ONTARIO"
+    ]
+  },
+  "MeteoMedia.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: METEO MEDIA HD"
+    ]
+  },
+  "Noovo.ca@SD": {
+    "aliases": [
+      "Noovo.ca"
+    ],
+    "names": [
+      "CA FR: NOOVO V-TELE HD"
+    ]
+  },
+  "TV5QuebecCanada.ca@SD": {
+    "aliases": [
+      "TV5.ca"
+    ],
+    "names": [
+      "CA FR: TV5 HD"
+    ]
+  },
+  "Zeste.ca@SD": {
+    "aliases": [
+      "Zeste.ca"
+    ],
+    "names": [
+      "CA FR: ZESTE HD"
+    ]
+  },
+  "ElleFictions.ca@SD": {
+    "aliases": [
+      "ElleFictions.ca"
+    ],
+    "names": [
+      "CA FR: ELLE FICTIONS HD"
+    ]
+  },
+  "SuperEcran1.ca@SD": {
+    "aliases": [
+      "SuperEcran.ca"
+    ],
+    "names": [
+      "CA FR: SUPER ECRAN 1",
+      "CA FR: SUPER ECRAN 1 HD"
+    ]
+  },
+  "SuperEcran3.ca@SD": {
+    "aliases": [
+      "SuperEcran3.ca"
+    ],
+    "names": [
+      "CA FR: SUPER ECRAN 3"
+    ]
+  },
+  "LaChaineDisney.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: LA CHAINE DISNEY"
+    ]
+  },
+  "IciARTV.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: ARTV",
+      "CA FR: ICI ARTV HD"
+    ]
+  },
+  "AMItele.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: AMI TELE HD"
+    ]
+  },
+  "Casa.ca@SD": {
+    "aliases": [
+      "CasaTV.ca"
+    ],
+    "names": [
+      "CA FR: CASA",
+      "CA FR: CASA HD"
+    ]
+  },
+  "Investigation.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA FR: INVESTIGATION HD"
+    ]
+  },
+  "CBETDT.ca@SD": {
+    "aliases": [
+      "CBET.ca"
+    ],
+    "names": [
+      "CA EN: CBC WINDSOR NEWS HD"
+    ]
+  },
+  "TVPassport-3956.ca": {
+    "aliases": [
+      "ctvcalgary.ca"
+    ],
+    "names": [
+      "CA EN: CTV CALGARY"
+    ]
+  },
+  "AMItv.ca@SD": {
+    "aliases": [
+      "AMITV.ca"
+    ],
+    "names": [
+      "CA EN: AMI TV HD"
+    ]
+  },
+  "TVPassport-6803.ca": {
+    "aliases": [
+      "CBCT.ca"
+    ],
+    "names": [
+      "CA EN: CBC CHARLOTTETOWN (HD)"
+    ]
+  },
+  "TVPassport-6806.ca": {
+    "aliases": [
+      "CBKT.ca"
+    ],
+    "names": [
+      "CA EN: CBC REGINA(HD)"
+    ]
+  },
+  "TVPassport-6807.ca": {
+    "aliases": [
+      "CBNT.ca"
+    ],
+    "names": [
+      "CA EN: CBC ST JOHN'S (HD)"
+    ]
+  },
+  "CBWTDT.ca@SD": {
+    "aliases": [
+      "CBWT.ca"
+    ],
+    "names": [
+      "CA EN: CBC WINNIPEG HD"
+    ]
+  },
+  "CBATDT.ca@SD": {
+    "aliases": [
+      "CBAT.ca"
+    ],
+    "names": [
+      "CA EN: CBC FREDERICTON (HD)"
+    ]
+  },
+  "TVPassport-6812.ca": {
+    "aliases": [
+      "ctvhalifax.ca"
+    ],
+    "names": [
+      "CA EN: CTV HALIFAX"
+    ]
+  },
+  "TVPassport-9690.ca": {
+    "aliases": [
+      "ctvkitchener.ca"
+    ],
+    "names": [
+      "CA EN: CTV KITCHENER HD"
+    ]
+  },
+  "TVPassport-3932.ca": {
+    "aliases": [],
+    "names": [
+      "CA EN: CTV VANCOUVER HD"
+    ]
+  },
+  "TVPassport-3940.ca": {
+    "aliases": [
+      "ctvwinnipeg.ca"
+    ],
+    "names": [
+      "CA EN: CTV WINNIPEG HD"
+    ]
+  },
+  "E.ca@SD": {
+    "aliases": [
+      "EEntertainment.ca"
+    ],
+    "names": [
+      "CA EN:  E! HD"
+    ]
+  },
+  "TheWeatherNetwork.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA EN: WEATHER NETWORK",
+      "CA EN: WEATHER NETWORK HD"
+    ]
+  },
+  "FX.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA EN: FX HD"
+    ]
+  },
+  "CIHFDT.ca@SD": {
+    "aliases": [
+      "CIHF.ca"
+    ],
+    "names": [
+      "CA EN: GLOBAL HALIFAX SD"
+    ]
+  },
+  "ABCSpark.ca@SD": {
+    "aliases": [
+      "ABCSpark.ca"
+    ],
+    "names": [
+      "CA EN: ABC SPARK"
+    ]
+  },
+  "Showcase.ca@SD": {
+    "aliases": [
+      "Showcase.ca"
+    ],
+    "names": [
+      "CA EN: SHOWCASE(R)"
+    ]
+  },
+  "SuperChannelFuse.ca@SD": {
+    "aliases": [
+      "SuperChannelFuse.ca"
+    ],
+    "names": [
+      "CA EN: SUPER CHANNEL FUSE HD"
+    ]
+  },
+  "TVPassport-4839.ca": {
+    "aliases": [
+      "SuperChannelHeartHome.ca"
+    ],
+    "names": [
+      "CA EN: SUPER CHANNEL HEART & HOME HD"
+    ]
+  },
+  "SportsmanChannelCanada.ca@SD": {
+    "aliases": [
+      "SportsmanChannel.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSMAN HD"
+    ]
+  },
+  "Sportsnet.ca@East": {
+    "aliases": [
+      "SportsnetEast.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET EAST",
+      "CA: SPORTSN ET EAST ᴿᴬᵂ",
+      "CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "SportsnetOne.ca@SD": {
+    "aliases": [
+      "SportsnetOne.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET ONE 4K",
+      "CA EN: SPORTSNET ONE HD",
+      "CA: SPORTSN ET ONE ᴿᴬᵂ",
+      "CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "Sportsnet.ca@Ontario": {
+    "aliases": [
+      "SportsnetOntario.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET ONTARIO",
+      "CA EN: SPORTSNET ONTARIO HD",
+      "CA: SPORTSN ET ONTARIO ᴿᴬᵂ",
+      "CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "TVPassport-6042.ca": {
+    "aliases": [
+      "SportsnetPacific.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET PACIFIC HD",
+      "CA: SPORTSN ET PACIFIC ᴿᴬᵂ",
+      "CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "SportsnetWorld.ca@SD": {
+    "aliases": [
+      "SportsnetWorld.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET WORLD HD",
+      "CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "Sportsnet360.ca@SD": {
+    "aliases": [
+      "Sportsnet360.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET 360 4K",
+      "CA EN: SPORTSNET 360 HD",
+      "CA: SPORTSN ET 360 ᴿᴬᵂ",
+      "CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "Sportsnet.ca@West": {
+    "aliases": [
+      "SportsnetWest.ca"
+    ],
+    "names": [
+      "CA EN: SPORTSNET WEST HD",
+      "CA EN: SPORTSNET WEST ᴿᴬᵂ",
+      "CA: SPORTSN ET WEST ᴿᴬᵂ",
+      "CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "TSN1.ca@SD": {
+    "aliases": [
+      "TSN1.ca"
+    ],
+    "names": [
+      "CA EN: TSN 1",
+      "CA: TSN 1 ᴿᴬᵂ",
+      "CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "TSN2.ca@SD": {
+    "aliases": [],
+    "names": [
+      "CA EN: TSN 2",
+      "CA: TSN 2 ᴿᴬᵂ",
+      "CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "TSN3.ca@SD": {
+    "aliases": [
+      "TSN3.ca"
+    ],
+    "names": [
+      "CA EN: TSN 3",
+      "CA: TSN 3 ᴿᴬᵂ",
+      "CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "TSN4.ca@SD": {
+    "aliases": [
+      "TSN4.ca"
+    ],
+    "names": [
+      "CA EN: TSN 4",
+      "CA: TSN 4 ᴿᴬᵂ",
+      "CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "TSN5.ca@SD": {
+    "aliases": [
+      "TSN5.ca"
+    ],
+    "names": [
+      "CA EN: TSN 5",
+      "CA: TSN 5 ᴿᴬᵂ",
+      "CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ"
+    ]
+  },
+  "AdultSwim.ca@SD": {
+    "aliases": [
+      "AdultSwim.ca"
+    ],
+    "names": [
+      "CA EN: ADULT SWIM HD"
+    ]
+  },
+  "CBXTDT.ca@SD": {
+    "aliases": [
+      "CBXT.ca"
+    ],
+    "names": [
+      "CA EN: CBC EDMONTON HD"
+    ]
+  },
+  "CBHTDT.ca@SD": {
+    "aliases": [
+      "CBHT.ca"
+    ],
+    "names": [
+      "CA EN: CBC HALIFAX HD"
+    ]
+  },
+  "DisneyXD.ca@SD": {
+    "aliases": [
+      "DisneyXD.ca"
+    ],
+    "names": [
+      "CA EN: DISNEY XD HD"
+    ]
+  },
+  "FamilyChannel.ca@East": {
+    "aliases": [
+      "FamilyChannel.ca"
+    ],
+    "names": [
+      "CA EN: FAMILY CHANNEL EAST HD"
+    ]
+  },
+  "FXX.ca@SD": {
+    "aliases": [
+      "FXX.ca"
+    ],
+    "names": [
+      "CA EN: FXX HD"
+    ]
+  },
+  "Nickelodeon.ca@SD": {
+    "aliases": [
+      "Nickelodeon.ca"
+    ],
+    "names": [
+      "CA EN: NICKELODEON HD"
+    ]
+  },
+  "DiscoveryVelocity.ca@SD": {
+    "aliases": [
+      "DiscoveryVelocity.ca"
+    ],
+    "names": [
+      "CA EN: DISCOVERY VELOCITY HD"
+    ]
+  },
+  "NationalGeographicWild.ca@SD": {
+    "aliases": [
+      "natgeowild.ca"
+    ],
+    "names": [
+      "CA EN: NATIONAL GEOGRAPHIC WILD HD"
+    ]
+  },
+  "BBCOne.uk@EastHD": {
+    "aliases": [
+      "bbc1.uk"
+    ],
+    "names": [
+      "UK: BBC 1 4K ◉",
+      "UK: BBC 1 HD ◉",
+      "UK: BBC 1 HEVC 4K",
+      "UK: BBC 1 HEVC HD",
+      "UK: BBC ONE CHANNEL ISLAND ◉"
+    ]
+  },
+  "BBCTwo.uk@HD": {
+    "aliases": [
+      "BBC2.uk",
+      "BBCTwoWales.uk"
+    ],
+    "names": [
+      "UK: BBC 2 4K ◉",
+      "UK: BBC 2 HD ◉",
+      "UK: BBC 2 HEVC 4K",
+      "UK: BBC 2 HEVC HD",
+      "UK: BBC TWO HD ◉",
+      "UK: BBC TWO SCOTLAND ◉"
+    ]
+  },
+  "BBCFour.uk@UKHD": {
+    "aliases": [
+      "BBC4.uk"
+    ],
+    "names": [
+      "UK: BBC 4 / CBEEBIES 4K ◉",
+      "UK: BBC 4 ◉",
+      "UK: BBC FOUR ᴿᴬᵂ"
+    ]
+  },
+  "ITV1.uk@WalesHD": {
+    "aliases": [
+      "itv1.uk"
+    ],
+    "names": [
+      "UK: ITV 1 4K ◉",
+      "UK: ITV 1 HD ◉",
+      "UK: ITV 1 HEVC 4K",
+      "UK: ITV 1 HEVC HD",
+      "UK: ITV 1 ᴴᴰ",
+      "UK: ITV 1 ◉"
+    ]
+  },
+  "ITV1.uk@LondonPlus1": {
+    "aliases": [],
+    "names": [
+      "UK: ITV 1 +1 ◉"
+    ]
+  },
+  "ITV2.uk@HD": {
+    "aliases": [
+      "itv2.uk"
+    ],
+    "names": [
+      "UK: ITV 2 4K ◉",
+      "UK: ITV 2 HD ◉",
+      "UK: ITV 2 HEVC 4K",
+      "UK: ITV 2 HEVC HD",
+      "UK: ITV 2 ᴴᴰ",
+      "UK: ITV 2 ◉"
+    ]
+  },
+  "ITV3.uk@HD": {
+    "aliases": [
+      "itv3.uk"
+    ],
+    "names": [
+      "UK: ITV 3 4K ◉",
+      "UK: ITV 3 HD ◉",
+      "UK: ITV 3 HEVC 4K",
+      "UK: ITV 3 HEVC HD",
+      "UK: ITV 3 ᴴᴰ"
+    ]
+  },
+  "ITV4.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: ITV 4 4K ◉",
+      "UK: ITV 4 HD ◉",
+      "UK: ITV 4 HEVC 4K",
+      "UK: ITV 4 HEVC HD",
+      "UK: ITV 4 ᴴᴰ"
+    ]
+  },
+  "Channel4.uk@UKHD": {
+    "aliases": [
+      "Channel4.uk"
+    ],
+    "names": [
+      "UK: CHANNEL 4 4K ◉",
+      "UK: CHANNEL 4 HEVC 4K",
+      "UK: CHANNEL 4 HEVC HD",
+      "UK: CHANNEL 4 LONDON ◉",
+      "UK: CHANNEL 4 MIDLANDS ◉",
+      "UK: CHANNEL 4 NORTH ◉",
+      "UK: CHANNEL 4 ◉"
+    ]
+  },
+  "Channel5.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: CHANNEL 5 4K ◉",
+      "UK: CHANNEL 5 HEVC 4K",
+      "UK: CHANNEL 5 HEVC HD",
+      "UK: CHANNEL 5 ◉"
+    ]
+  },
+  "E4.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: E4  HEVC 4K",
+      "UK: E4 4K ◉",
+      "UK: E4 HEVC HD",
+      "UK: E4 ◉"
+    ]
+  },
+  "E4.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: E4 +1 ◉"
+    ]
+  },
+  "4seven.uk@SD": {
+    "aliases": [
+      "4Seven.uk",
+      "4seven.uk"
+    ],
+    "names": [
+      "UK: 4SEVEN ◉",
+      "UK: LONDON LIVE ◉"
+    ]
+  },
+  "CBBC.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: CBBC 4K ◉"
+    ]
+  },
+  "BBCThree.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: BBC 3 4K ◉",
+      "UK: BBC THREE ᴿᴬᵂ"
+    ]
+  },
+  "ITV2.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: ITV 2+1 ◉"
+    ]
+  },
+  "ITV3.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: ITV 3+1 ◉"
+    ]
+  },
+  "ITV4.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: ITV 4+1 ◉"
+    ]
+  },
+  "ITVQuiz.uk@SD": {
+    "aliases": [
+      "itvquiz.uk"
+    ],
+    "names": [
+      "UK : ITV QUIZ 4K"
+    ]
+  },
+  "Channel5.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: CHANNEL 5 +1 ◉"
+    ]
+  },
+  "FoodNetwork.uk@SD": {
+    "aliases": [
+      "FoodNetwork.uk"
+    ],
+    "names": [
+      "UK: FOOD NETWORK",
+      "UK: FOOD NETWORK ◉"
+    ]
+  },
+  "FoodNetwork.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: FOOD NETWORK +1 ◉"
+    ]
+  },
+  "BBCOne.uk@NorthernIrelandHD": {
+    "aliases": [],
+    "names": [
+      "UK: BBC ONE NI HD ◉",
+      "UK: BBC ONE NI ᴿᴬᵂ"
+    ]
+  },
+  "BBCAlba.uk@HD": {
+    "aliases": [
+      "BBCAlba.uk"
+    ],
+    "names": [
+      "UK: BBC ALBA ᴿᴬᵂ",
+      "UK: BBC ALBA ◉"
+    ]
+  },
+  "BBCScotland.uk@HD": {
+    "aliases": [
+      "BBCScotland.uk"
+    ],
+    "names": [
+      "UK: BBC SCOTLAND HD ◉",
+      "UK: BBC SCOTLAND ᴿᴬᵂ"
+    ]
+  },
+  "SkyAtlantic.uk@HD": {
+    "aliases": [
+      "SkyAtlantic.uk"
+    ],
+    "names": [
+      "UK: SKY ATLANTIC 4K ◉",
+      "UK: SKY ATLANTIC HEVC 4K",
+      "UK: SKY ATLANTIC HEVC HD"
+    ]
+  },
+  "SkyArts.uk@HD": {
+    "aliases": [
+      "SkyArts.uk"
+    ],
+    "names": [
+      "UK: SKY ARTS 4K ◉",
+      "UK: SKY ARTS HEVC 4K",
+      "UK: SKY ARTS HEVC HD"
+    ]
+  },
+  "SkyWitness.uk@HD": {
+    "aliases": [
+      "SkyWitness.uk"
+    ],
+    "names": [
+      "UK: SKY WITNESS  HEVC HD",
+      "UK: SKY WITNESS HD ◉",
+      "UK: SKY WITNESS HEVC 4K"
+    ]
+  },
+  "ComedyCentral.uk@HD": {
+    "aliases": [
+      "ComedyCentral.uk"
+    ],
+    "names": [
+      "UK: COMEDY CENTRAL 4K ◉",
+      "UK: COMEDY CENTRAL HEVC 4K",
+      "UK: COMEDY CENTRAL HEVC HD",
+      "UK: COMEDY CENTRAL ◉"
+    ]
+  },
+  "Blaze.uk@SD": {
+    "aliases": [
+      "Blaze.uk"
+    ],
+    "names": [
+      "UK: BLAZE 4K ◉"
+    ]
+  },
+  "Film4.uk@HD": {
+    "aliases": [
+      "Film4.uk"
+    ],
+    "names": [
+      "UK: FILM 4 4K ◉",
+      "UK: FILM 4 HEVC 4K",
+      "UK: FILM 4 HEVC HD"
+    ]
+  },
+  "More4.uk@HD": {
+    "aliases": [
+      "More4.uk"
+    ],
+    "names": [
+      "UK: MORE 4 4K ◉",
+      "UK: MORE 4 HEVC 4K",
+      "UK: MORE 4 HEVC HD",
+      "UK: MORE4 ◉"
+    ]
+  },
+  "STV.uk@HD": {
+    "aliases": [
+      "STV.uk"
+    ],
+    "names": [
+      "UK: STV 4K ◉"
+    ]
+  },
+  "UTV.uk@HD": {
+    "aliases": [
+      "UTV.uk"
+    ],
+    "names": [
+      "UK: UTV 4K ◉",
+      "UK: UTV HD ◉"
+    ]
+  },
+  "Quest.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: QUEST 4K ◉"
+    ]
+  },
+  "QuestRed.uk@Plus1": {
+    "aliases": [
+      "W.uk"
+    ],
+    "names": [
+      "UK: QUEST RED +1 ◉",
+      "UK: Quest Red +1 ◉"
+    ]
+  },
+  "HorrorXtra.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: HORROR XTRA ◉"
+    ]
+  },
+  "5STAR.uk@SD": {
+    "aliases": [
+      "5star.uk"
+    ],
+    "names": [
+      "UK: 5 STAR ◉"
+    ]
+  },
+  "5STAR.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: 5 STAR+1 ◉"
+    ]
+  },
+  "5SELECT.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: 5 SELECT ◉"
+    ]
+  },
+  "5USA.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: 5 USA ◉"
+    ]
+  },
+  "5USA.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: 5 USA +1 ◉"
+    ]
+  },
+  "Challenge.uk@SD": {
+    "aliases": [
+      "Challenge.uk"
+    ],
+    "names": [
+      "UK: CHALLENGE ◉"
+    ]
+  },
+  "S4C.uk@HD": {
+    "aliases": [
+      "S4C.uk"
+    ],
+    "names": [
+      "UK: S4C ◉"
+    ]
+  },
+  "Really.uk@SD": {
+    "aliases": [
+      "Really.uk"
+    ],
+    "names": [
+      "UK: REALLY",
+      "UK: REALLY ◉"
+    ]
+  },
+  "QVC.uk@HD": {
+    "aliases": [
+      "QVC.uk"
+    ],
+    "names": [
+      "UK: QVC UK ◉"
+    ]
+  },
+  "QVCBeauty.uk@SD": {
+    "aliases": [
+      "QVCBeauty.uk"
+    ],
+    "names": [
+      "UK: QVC BEAUTY ◉"
+    ]
+  },
+  "QVCExtra.uk@SD": {
+    "aliases": [
+      "QVCExtra.uk"
+    ],
+    "names": [
+      "UK: QVC EXTRA ◉"
+    ]
+  },
+  "QVCStyle.uk@HD": {
+    "aliases": [
+      "QVCStyle.uk"
+    ],
+    "names": [
+      "UK: QVC STYLE ◉"
+    ]
+  },
+  "DMAX.uk@UK": {
+    "aliases": [],
+    "names": [
+      "UK: DMAX",
+      "UK: DMAX ◉"
+    ]
+  },
+  "DMAX.uk@UKPlus1": {
+    "aliases": [],
+    "names": [
+      "UK: DMAX +1 ◉"
+    ]
+  },
+  "PBSAmerica.uk@SD": {
+    "aliases": [
+      "PBSAmerica.uk"
+    ],
+    "names": [
+      "UK: PBS AMERICA ◉"
+    ]
+  },
+  "BestDirect.uk@SD": {
+    "aliases": [
+      "BestDirect.uk"
+    ],
+    "names": [
+      "UK: BEST DIRECT ◉"
+    ]
+  },
+  "GREATmovies.uk@UK": {
+    "aliases": [
+      "GreatMovies.uk"
+    ],
+    "names": [
+      "UK: GREAT MOVIES ACTION ◉",
+      "UK: GREAT MOVIES ◉",
+      "UK: GREAT MYSTERY"
+    ]
+  },
+  "Quest.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: QUEST +1 ◉"
+    ]
+  },
+  "TJC.uk@HD": {
+    "aliases": [
+      "TheJewelryChannel.uk"
+    ],
+    "names": [
+      "UK: TJC ◉"
+    ]
+  },
+  "TVWarehouse.uk@SD": {
+    "aliases": [
+      "TVWarehouse.uk"
+    ],
+    "names": [
+      "UK: TV WAREHOUSE ◉"
+    ]
+  },
+  "5Action.uk@SD": {
+    "aliases": [
+      "5Action.uk"
+    ],
+    "names": [
+      "UK: 5 ACTION HD ◉",
+      "UK: 5 Action HD ◉"
+    ]
+  },
+  "NewVision.uk@SD": {
+    "aliases": [
+      "NewVision.uk"
+    ],
+    "names": [
+      "UK: New Vision / ARY WORLD ◉"
+    ]
+  },
+  "E4Extra.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: E4 EXTRA ◉"
+    ]
+  },
+  "More4.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: MORE 4+1"
+    ]
+  },
+  "BBCNews.uk@UKHD": {
+    "aliases": [
+      "BBCNews.uk"
+    ],
+    "names": [
+      "UK: BBC NEWS HEVC 4K",
+      "UK: BBC NEWS HEVC HD",
+      "UK: BBC NEWS HEVC ◉",
+      "UK: BBC NEWS ᴿᴬᵂ"
+    ]
+  },
+  "BBCParliament.uk@HD": {
+    "aliases": [
+      "BBCParliament.uk"
+    ],
+    "names": [
+      "UK: BBC PARLAMENT ◉",
+      "UK: BBC PARLIAMENT ᴿᴬᵂ"
+    ]
+  },
+  "BBCTwo.uk@NorthernIrelandHD": {
+    "aliases": [],
+    "names": [
+      "UK: BBC TWO NI ᴿᴬᵂ"
+    ]
+  },
+  "BBCRedButton1.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: BBC RED BUTTON 1 ᴿᴬᵂ"
+    ]
+  },
+  "SkyNews.uk@HD": {
+    "aliases": [
+      "SkyNews.uk"
+    ],
+    "names": [
+      "UK: SKY NEWS HD ◉",
+      "UK: SKY NEWS HEVC 4K",
+      "UK: SKY NEWS HEVC HD"
+    ]
+  },
+  "GBNews.uk@SD": {
+    "aliases": [
+      "GBNews.uk"
+    ],
+    "names": [
+      "UK: GB NEWS 4K ◉",
+      "UK: GB NEWS HEVC 4K",
+      "UK: GB NEWS HEVC HD"
+    ]
+  },
+  "AriseNews.uk@SD": {
+    "aliases": [
+      "AriseNews.uk"
+    ],
+    "names": [
+      "UK: ARISE NEWS ◉"
+    ]
+  },
+  "CNBCEurope.uk@SD": {
+    "aliases": [
+      "CNBC.uk"
+    ],
+    "names": [
+      "UK: CNBC ◉"
+    ]
+  },
+  "Cruise1stTV.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: CRUISE 1ST  TV"
+    ]
+  },
+  "AnimalPlanet.uk@SD": {
+    "aliases": [
+      "AnimalPlanet.uk"
+    ],
+    "names": [
+      "UK: ANIMAL PLANET 4K",
+      "UK: ANIMAL PLANET 4K ◉"
+    ]
+  },
+  "SkyDocumentaries.uk@HD": {
+    "aliases": [
+      "SkyDocumentaries.uk"
+    ],
+    "names": [
+      "UK: SKY DOCUMENTARIES 4K ◉"
+    ]
+  },
+  "AnimalPlanet.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: ANIMAL PLNT +1 ◉"
+    ]
+  },
+  "InvestigationDiscovery.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: ID +1 ◉",
+      "UK: INVESTIGATION DISCOVERY +1 ◉"
+    ]
+  },
+  "SkyCinemaAction.uk@HD": {
+    "aliases": [
+      "skyaction.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA ACTION 4K",
+      "UK: SKY CINEMA ACTION HD ◉",
+      "UK: SKY CINEMA ACTION HEVC 4K",
+      "UK: SKY CINEMA ACTION HEVC HD",
+      "UK: SKY CINEMA ACTION ◉"
+    ]
+  },
+  "SkyCinemaComedy.uk@HD": {
+    "aliases": [
+      "SkyCinemaComedy.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA COMEDY 4K",
+      "UK: SKY CINEMA COMEDY HEVC 4K",
+      "UK: SKY CINEMA COMEDY HEVC HD",
+      "UK: SKY CINEMA COMEDY ◉"
+    ]
+  },
+  "SkyCinemaDrama.uk@HD": {
+    "aliases": [
+      "SkyCinemaDrama.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA DRAMA 4K",
+      "UK: SKY CINEMA DRAMA ◉",
+      "UK: SKY CINEMA DRAMA/CHRISTMAS HEVC 4K",
+      "UK: SKY CINEMA DRAMA/CHRISTMAS HEVC HD"
+    ]
+  },
+  "SkyCinemaGreats.uk@SD": {
+    "aliases": [
+      "SkyCinemaGreats.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA GREATS 4K",
+      "UK: SKY CINEMA GREATS HEVC 4K",
+      "UK: SKY CINEMA GREATS HEVC HD",
+      "UK: SKY CINEMA GREATS ◉"
+    ]
+  },
+  "SkyCinemaHits.uk@SD": {
+    "aliases": [
+      "SkyCinemaHits.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA HITS 4K",
+      "UK: SKY CINEMA HITS HEVC 4K",
+      "UK: SKY CINEMA HITS HEVC HD",
+      "UK: SKY CINEMA HITS ◉"
+    ]
+  },
+  "SkyCinemaPremiere.uk@HD": {
+    "aliases": [
+      "SkyCinemaPremiere.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA PREMIER 4K",
+      "UK: SKY CINEMA PREMIER HEVC 4K",
+      "UK: SKY CINEMA PREMIER HEVC HD",
+      "UK: SKY CINEMA PREMIERE 4K",
+      "UK: SKY CINEMA PREMIERE ◉"
+    ]
+  },
+  "SkyCinemaThriller.uk@HD": {
+    "aliases": [
+      "SkyCinemaThriller.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA THRILLER",
+      "UK: SKY CINEMA THRILLER 4K",
+      "UK: SKY CINEMA THRILLER HEVC 4K",
+      "UK: SKY CINEMA THRILLER HEVC HD"
+    ]
+  },
+  "SkyCinemaFamily.uk@HD": {
+    "aliases": [
+      "SkyCinemaFamily.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA FAMILY 4K",
+      "UK: SKY CINEMA FAMILY HEVC 4K",
+      "UK: SKY CINEMA FAMILY HEVC HD"
+    ]
+  },
+  "SkyCinemaSciFiHorror.uk@HD": {
+    "aliases": [
+      "SkyCinemaSciFiHorror.uk"
+    ],
+    "names": [
+      "UK: SKY CINEMA SCI-FI 4K",
+      "UK: SKY CINEMA SCI-FI ◉",
+      "UK: SKY CINEMA SCIFI HORROR 4K",
+      "UK: SKY CINEMA SCIFI/HORROR HEVC 4K",
+      "UK: SKY CINEMA SCIFI/HORROR HEVC HD"
+    ]
+  },
+  "SkyCinemaSelect.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: SKY CINEMA SELECT HD ◉"
+    ]
+  },
+  "SkyComedy.uk@HD": {
+    "aliases": [
+      "SkyComedy.uk"
+    ],
+    "names": [
+      "UK: SKY COMEDY 4K",
+      "UK: SKY COMEDY HEVC 4K",
+      "UK: SKY COMEDY HEVC HD"
+    ]
+  },
+  "SkyCrime.uk@HD": {
+    "aliases": [
+      "SkyCrime.uk"
+    ],
+    "names": [
+      "UK: SKY CRIME 4K ◉",
+      "UK: SKY CRIME HEVC 4K",
+      "UK: SKY CRIME HEVC HD"
+    ]
+  },
+  "SkyCrime.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: SKY CRIME +1 ◉"
+    ]
+  },
+  "SkyOne.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: SKY ONE",
+      "UK: SKY ONE 4K",
+      "UK: SKY ONE HD",
+      "UK: SKY ONE HEVC HD"
+    ]
+  },
+  "TalkingPicturesTV.uk@SD": {
+    "aliases": [
+      "TalkingPictures.uk"
+    ],
+    "names": [
+      "UK: TALKING PICTURES ◉"
+    ]
+  },
+  "SkyKids.uk@HD": {
+    "aliases": [
+      "CBeebies.uk",
+      "SkyKids.uk"
+    ],
+    "names": [
+      "UK: SKY KIDS 4K",
+      "UK: SKY KIDS HEVC 4K",
+      "UK: SKY KIDS HEVC HD"
+    ]
+  },
+  "SkyNature.uk@HD": {
+    "aliases": [
+      "SkyNature.uk"
+    ],
+    "names": [
+      "UK: SKY NATURE 4K ◉",
+      "UK: SKY NATURE HEVC 4K",
+      "UK: SKY NATURE HEVC HD"
+    ]
+  },
+  "MTV.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: MTV 4K"
+    ]
+  },
+  "Now70s.uk@SD": {
+    "aliases": [
+      "Now70s.uk"
+    ],
+    "names": [
+      "UK: NOW 70S"
+    ]
+  },
+  "Now80s.uk@SD": {
+    "aliases": [
+      "NOW80s.uk"
+    ],
+    "names": [
+      "UK: NOW 80S"
+    ]
+  },
+  "ClublandTV.uk@SD": {
+    "aliases": [
+      "ClublandTV.uk"
+    ],
+    "names": [
+      "UK: CLUBLAND TV"
+    ]
+  },
+  "DiscoveryHistory.uk@SD": {
+    "aliases": [
+      "DiscoveryHistory.uk"
+    ],
+    "names": [
+      "UK: DISCOVERY HISTORY",
+      "UK: DISCOVERY HISTORY ◉",
+      "UK: HISTORY HEVC HD"
+    ]
+  },
+  "DiscoveryHistory.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: DISCOVERY HISTORY +1"
+    ]
+  },
+  "DiscoveryTurbo.uk@SD": {
+    "aliases": [
+      "DiscoveryTurbo.uk"
+    ],
+    "names": [
+      "UK: DISCOVERY TURBO",
+      "UK: DISCOVERY TURBO ◉"
+    ]
+  },
+  "InvestigationDiscovery.uk@SD": {
+    "aliases": [
+      "InvestigationDiscovery.uk"
+    ],
+    "names": [
+      "UK: ID",
+      "UK: INVESTIGATION DISCOVERY ◉"
+    ]
+  },
+  "QuestRed.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: QUEST RED"
+    ]
+  },
+  "TLC.uk@HD": {
+    "aliases": [
+      "TLC.uk"
+    ],
+    "names": [
+      "UK: TLC 4K",
+      "UK: TLC HEVC 4K",
+      "UK: TLC HEVC HD"
+    ]
+  },
+  "DiscoveryChannel.uk@UK": {
+    "aliases": [],
+    "names": [
+      "UK: DISCOVERY",
+      "UK: DISCOVERY 4K ◉",
+      "UK: DISCOVERY HEVC 4K",
+      "UK: DISCOVERY HEVC HD"
+    ]
+  },
+  "DiscoveryChannel.uk@UKPlus1": {
+    "aliases": [],
+    "names": [
+      "UK: DISCOVERY +1 ◉"
+    ]
+  },
+  "DiscoveryTurbo.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: DISCOVERY TURBO +1 ◉"
+    ]
+  },
+  "NationalGeographic.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK:: NATIONAL GEOGRAPHIC 4K ◉"
+    ]
+  },
+  "NationalGeographicWild.uk@HD": {
+    "aliases": [
+      "NatGeoWild.uk"
+    ],
+    "names": [
+      "UK: : NATIONAL GEOGRAPHIC WILD 4K ◉",
+      "UK: NAT GEO WILD HEVC 4K",
+      "UK: NAT GEO WILD HEVC HD"
+    ]
+  },
+  "Nickelodeon.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: NICKELODEON",
+      "UK: NICKELODEON 4K"
+    ]
+  },
+  "Nickelodeon.uk@Plus1": {
+    "aliases": [],
+    "names": [
+      "UK: NICKELODEON +1"
+    ]
+  },
+  "DisneyJr.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: DISNEY JR",
+      "UK: DISNEY JR HD"
+    ]
+  },
+  "Nicktoons.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: NICK TOONS"
+    ]
+  },
+  "CartoonNetwork.uk@HD": {
+    "aliases": [
+      "CartoonNetwork.uk"
+    ],
+    "names": [
+      "UK: CARTOON NETWORK 4K",
+      "UK: CARTOON NETWORK HEVC 4K",
+      "UK: CARTOON NETWORK HEVC HD"
+    ]
+  },
+  "BabyTV.uk@UK": {
+    "aliases": [
+      "BabyTV.uk"
+    ],
+    "names": [
+      "UK: BABY TV 4K",
+      "UK: BABY TV ᴿᴬᵂ"
+    ]
+  },
+  "Cartoonito.uk@SD": {
+    "aliases": [
+      "Cartoonito.uk"
+    ],
+    "names": [
+      "UK: CARTOONITO"
+    ]
+  },
+  "NickJr.uk@HD": {
+    "aliases": [
+      "NickJunior.uk"
+    ],
+    "names": [
+      "UK: NICK JR HEVC 4K",
+      "UK: NICK JR HEVC HD"
+    ]
+  },
+  "Boomerang.uk@SD": {
+    "aliases": [
+      "Boomerang.uk"
+    ],
+    "names": [
+      "UK: BOOMERANG HEVC 4K",
+      "UK: BOOMERANG HEVC HD"
+    ]
+  },
+  "TNTSports1.uk@HD": {
+    "aliases": [
+      "TNTSport1.uk",
+      "tntsports1.uk"
+    ],
+    "names": [
+      "UK: TNT SPORTS 1 HEVC 4K",
+      "UK: TNT SPORTS 1 HEVC HD",
+      "UK: TNT SPORTS 1 SD",
+      "UK: TNT SPORTS 1 ᴴᴰ ◉",
+      "UK: TNT SPORTS 1 ᴿᴬᵂ"
+    ]
+  },
+  "TNTSports2.uk@HD": {
+    "aliases": [
+      "TNTSport2.uk",
+      "tntsports2.uk"
+    ],
+    "names": [
+      "UK: TNT SPORTS 2 HEVC 4K",
+      "UK: TNT SPORTS 2 HEVC HD",
+      "UK: TNT SPORTS 2 SD",
+      "UK: TNT SPORTS 2 ᴴᴰ ◉",
+      "UK: TNT SPORTS 2 ᴿᴬᵂ"
+    ]
+  },
+  "TNTSports3.uk@HD": {
+    "aliases": [
+      "TNTSport3.uk",
+      "tntsports3.uk"
+    ],
+    "names": [
+      "UK: TNT SPORTS 3 HEVC 4K",
+      "UK: TNT SPORTS 3 HEVC HD",
+      "UK: TNT SPORTS 3 SD",
+      "UK: TNT SPORTS 3 ᴴᴰ ◉",
+      "UK: TNT SPORTS 3 ᴿᴬᵂ"
+    ]
+  },
+  "TNTSports4.uk@HD": {
+    "aliases": [
+      "TNTSport4.uk",
+      "tntsports4.uk"
+    ],
+    "names": [
+      "UK: TNT SPORTS 4 HEVC 4K",
+      "UK: TNT SPORTS 4 HEVC HD",
+      "UK: TNT SPORTS 4 SD",
+      "UK: TNT SPORTS 4 ᴴᴰ ◉",
+      "UK: TNT SPORTS 4 ᴿᴬᵂ"
+    ]
+  },
+  "TNTSports6.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: TNT SPORTS 6 ᴴᴰ"
+    ]
+  },
+  "SkySportsMainEvent.uk@HD": {
+    "aliases": [
+      "SkySportsMainEvent.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS MAIN EVENT SD",
+      "UK: SKY SPORTS MAIN EVENT ᴿᴬᵂ",
+      "UK: SKY SPORTS MAIN EVENTS HEVC 4K",
+      "UK: SKY SPORTS MAIN EVENTS ᴴᴰ ◉"
+    ]
+  },
+  "SkySportsNews.uk@HD": {
+    "aliases": [
+      "SkySportsNews.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS MAIN EVENTS HEVC HD",
+      "UK: SKY SPORTS NEWS HEVC 4K",
+      "UK: SKY SPORTS NEWS HEVC HD",
+      "UK: SKY SPORTS NEWS SD",
+      "UK: SKY SPORTS NEWS ᴴᴰ ◉",
+      "UK: SKY SPORTS NEWS ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsFootball.uk@HD": {
+    "aliases": [
+      "SkySportsFootball.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS FOOTBALL HEVC 4K",
+      "UK: SKY SPORTS FOOTBALL HEVC HD",
+      "UK: SKY SPORTS FOOTBALL SD",
+      "UK: SKY SPORTS FOOTBALL ᴴᴰ ◉",
+      "UK: SKY SPORTS FOOTBALL ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsPlus.uk@HD": {
+    "aliases": [
+      "SkySportsArena.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS + HEVC 4K",
+      "UK: SKY SPORTS + HEVC HD",
+      "UK: SKY SPORTS + SD",
+      "UK: SKY SPORTS + ᴴᴰ ◉",
+      "UK: SKY SPORTS + ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsCricket.uk@HD": {
+    "aliases": [
+      "SkySportsCricket.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS CRICKET HEVC 4K",
+      "UK: SKY SPORTS CRICKET HEVC HD",
+      "UK: SKY SPORTS CRICKET SD",
+      "UK: SKY SPORTS CRICKET ᴴᴰ ◉",
+      "UK: SKY SPORTS CRICKET ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsF1.uk@HD": {
+    "aliases": [
+      "SkySportsF1.uk",
+      "skysportsf1.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS DARTS  ᴴᴰ ◉",
+      "UK: SKY SPORTS DARTS HEVC 4K",
+      "UK: SKY SPORTS DARTS HEVC HD",
+      "UK: SKY SPORTS DARTS SD",
+      "UK: SKY SPORTS DARTS ᴿᴬᵂ",
+      "UK: SKY SPORTS F1  50FPS ᴿᴬᵂ",
+      "UK: SKY SPORTS F1 HEVC 4K",
+      "UK: SKY SPORTS F1 HEVC HD",
+      "UK: SKY SPORTS F1 SD",
+      "UK: SKY SPORTS F1 ᴴᴰ ◉",
+      "UK: SKY SPORTS F1 ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsMix.uk@HD": {
+    "aliases": [
+      "SkySportsMix.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS MIX HEVC 4K",
+      "UK: SKY SPORTS MIX HEVC HD",
+      "UK: SKY SPORTS MIX SD",
+      "UK: SKY SPORTS MIX ᴴᴰ ◉",
+      "UK: SKY SPORTS MIX ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsGolf.uk@HD": {
+    "aliases": [
+      "SkySportsGolf.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS GOLF HEVC 4K",
+      "UK: SKY SPORTS GOLF HEVC HD",
+      "UK: SKY SPORTS GOLF SD",
+      "UK: SKY SPORTS GOLF ᴴᴰ ◉",
+      "UK: SKY SPORTS GOLF ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsTennis.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: SKY SPORTS TENNIS HEVC 4K",
+      "UK: SKY SPORTS TENNIS HEVC HD",
+      "UK: SKY SPORTS TENNIS SD",
+      "UK: SKY SPORTS TENNIS ᴴᴰ ◉",
+      "UK: SKY SPORTS TENNIS ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsRacing.uk@UKHD": {
+    "aliases": [
+      "SkySportsRacing.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS RACING HEVC 4K",
+      "UK: SKY SPORTS RACING HEVC HD",
+      "UK: SKY SPORTS RACING SD",
+      "UK: SKY SPORTS RACING ᴴᴰ ◉",
+      "UK: SKY SPORTS RACING ᴿᴬᵂ"
+    ]
+  },
+  "LFCTV.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: LFC TV ᴴᴰ ◉",
+      "UK: LFC TV ᴿᴬᵂ"
+    ]
+  },
+  "SkySportsPremierLeague.uk@HD": {
+    "aliases": [
+      "SkySportsPremiereLeague.uk"
+    ],
+    "names": [
+      "UK: SKY SPORTS PREMIER LEAGUE HEVC 4K",
+      "UK: SKY SPORTS PREMIER LEAGUE HEVC HD",
+      "UK: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ"
+    ]
+  },
+  "MUTV.uk@SD": {
+    "aliases": [
+      "MUTV.uk"
+    ],
+    "names": [
+      "UK: MUTV ᴿᴬᵂ"
+    ]
+  },
+  "talkSPORT.uk@SD": {
+    "aliases": [
+      "talksport.uk"
+    ],
+    "names": [
+      "UK: TALK SPORT ᴿᴬᵂ"
+    ]
+  },
+  "IdealWorldTV.uk@HD": {
+    "aliases": [
+      "IdealWorld.uk"
+    ],
+    "names": [
+      "UK: IDEAL WORLD 4K ◉",
+      "UK: IDEAL WORLD HD ◉",
+      "UK: IDEAL WORLD ◉"
+    ]
+  },
+  "TogetherTV.uk@SD": {
+    "aliases": [
+      "TogetherTV.uk"
+    ],
+    "names": [
+      "UK: TOGETHER ◉"
+    ]
+  },
+  "HighStreetTV1.uk@SD": {
+    "aliases": [
+      "HighStreet1.uk"
+    ],
+    "names": [
+      "UK: HIGH STREET TV 1 ◉"
+    ]
+  },
+  "HighStreetTV2.uk@SD": {
+    "aliases": [
+      "HighStreet2.uk"
+    ],
+    "names": [
+      "UK: HIGH STREET TV 2 ◉"
+    ]
+  },
+  "HighStreetTV3.uk@SD": {
+    "aliases": [
+      "HighStreet3.uk"
+    ],
+    "names": [
+      "UK: HIGH STREET TV 3 ◉"
+    ]
+  },
+  "GREATtv.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: GREAT TV ◉"
+    ]
+  },
+  "HobbyMaker.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: HOBBY MAKER ◉"
+    ]
+  },
+  "Channel4.uk@UKPlus1": {
+    "aliases": [],
+    "names": [
+      "UK: CHANNEL 4 +1 ◉"
+    ]
+  },
+  "GODTV.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: GOD CHANNEL ◉"
+    ]
+  },
+  "Legend.uk@SD": {
+    "aliases": [
+      "Legend.uk"
+    ],
+    "names": [
+      "UK: LEGEND ◉"
+    ]
+  },
+  "ATNBanglaUK.uk@SD": {
+    "aliases": [],
+    "names": [
+      "UK: ATN ◉"
+    ]
+  },
+  "TNTSportsBoxOffice.uk@HD": {
+    "aliases": [],
+    "names": [
+      "UK: TNT SPORTS BOX OFFICE 4K",
+      "UK: TNT SPORTS BOX OFFICE HD",
+      "UK: TNT SPORTS BOX OFFICE HEVC",
+      "UK: TNT SPORTS BOX OFFICE SD"
+    ]
+  }
+}
