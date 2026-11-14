@@ -40,3 +40,15 @@ GitHub scheduled runs can be delayed. GitHub may disable scheduled workflows in 
 - The generator is pinned to upstream commit `6a74973f1e0657184bf168e589a043ac66bac551`. Review upstream changes and update the workflow pin when sources change.
 - Entries without an upstream XMLTV ID use a stable `TVPassport-<station-number>` or `TVPassport-<station-number>.ca` ID and generally need manual assignment.
 - Sources currently used: TV Passport, TV Guide, TV Hebdo and Sky. Source availability and regional schedules may vary.
+
+## Automatic ID matching
+
+A smaller feed with provider-compatible XMLTV IDs and channel-name aliases is published at:
+
+```text
+https://raw.githubusercontent.com/asbirdsell/tivimate-epg/main/guide-matched.xml.gz
+```
+
+The `Publish matched TV guide` workflow runs after every successful daily source refresh. `status-matched.json` records its publication status. The rules contain channel identifiers and names only; account credentials and stream URLs are not stored in this repository.
+
+Provider IDs shared by different regional feeds cannot uniquely identify both schedules. A corrected private M3U playlist can assign the canonical IDs per channel. Blank IDs also require playlist correction when the player cannot match a display name.
