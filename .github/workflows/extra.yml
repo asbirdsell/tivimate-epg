@@ -1,0 +1,56 @@
+name: Refresh extra channel guides
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 10 * * *'
+  push:
+    paths:
+      - 'channels-extra.xml'
+      - '.github/workflows/extra.yml'
+permissions:
+  contents: write
+concurrency:
+  group: epg-refresh
+  cancel-in-progress: false
+jobs:
+  extra:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: 6a74973f1e0657184bf168e589a043ac66bac551
+          path: upstream
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: upstream/package-lock.json
+      - name: Install generator
+        working-directory: upstream
+        run: npm ci
+      - name: Download missing channel schedules
+        working-directory: upstream
+        run: npm run grab -- --channels=../channels-extra.xml --output=../guide-extra.next.xml --days=3 --maxConnections=5 --timeout=15000
+      - name: Validate and publish
+        run: |
+          python3 - <<'PY'
+          import datetime,gzip,json,pathlib,xml.etree.ElementTree as ET
+          r=ET.parse('guide-extra.next.xml').getroot()
+          ps=r.findall('programme')
+          assert len(ps)>100,'Extra schedules were not retrieved; previous guide retained'
+          with gzip.open('guide-extra.xml.gz','wb') as f:
+              f.write(ET.tostring(r,encoding='utf-8',xml_declaration=True))
+          status={'updated_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'channels_with_listings':len({p.get('channel') for p in ps}),'programmes':len(ps)}
+          pathlib.Path('status-extra.json').write_text(json.dumps(status,indent=2))
+          print(json.dumps(status))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add guide-extra.xml.gz status-extra.json
+          git commit -m "Refresh missing channel schedules" || exit 0
+          git pull --rebase origin main
+          git push
