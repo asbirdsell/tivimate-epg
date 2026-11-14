@@ -1,0 +1,36 @@
+name: Publish matched TV guide
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh TV guide"]
+    types: [completed]
+  push:
+    paths:
+      - 'channel-aliases.json'
+      - 'scripts/make_matched_guide.py'
+      - '.github/workflows/match.yml'
+permissions:
+  contents: write
+concurrency:
+  group: epg-refresh
+  cancel-in-progress: false
+jobs:
+  match:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Generate provider-matched guide
+        run: python3 scripts/make_matched_guide.py
+      - name: Publish
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add guide-matched.xml.gz status-matched.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh provider-matched XMLTV guide"
+          git pull --rebase origin main
+          git push
