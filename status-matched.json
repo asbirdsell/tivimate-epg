@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-11-14T01:23:53.594828+00:00",
-  "xmltv_channel_entries": 802,
-  "entries_with_upcoming_listings": 802,
-  "programmes": 68598,
-  "provider_aliases_configured": 366,
-  "source_channels_configured": 474
+  "updated_utc": "2026-11-14T01:42:11.388686+00:00",
+  "xmltv_channel_entries": 7816,
+  "programmes": 418504,
+  "matched_entry_types": {
+    "continuous": 1386,
+    "schedule": 2805,
+    "unavailable": 957,
+    "approximate": 337,
+    "event": 1010
+  },
+  "channel_name_coverage_by_region": {
+    "us": {
+      "continuous": 967,
+      "schedule": 1460,
+      "unavailable": 389,
+      "approximate": 174,
+      "event": 164
+    },
+    "ca": {
+      "unavailable": 136,
+      "schedule": 360,
+      "approximate": 51,
+      "event": 61
+    },
+    "uk": {
+      "unavailable": 319,
+      "schedule": 408,
+      "approximate": 40,
+      "event": 672,
+      "continuous": 419
+    }
+  },
+  "real_source_channels": 2560,
+  "supplemental_source_present": true
 }
