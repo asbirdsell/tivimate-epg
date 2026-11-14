@@ -52,3 +52,11 @@ https://raw.githubusercontent.com/asbirdsell/tivimate-epg/main/guide-matched.xml
 The `Publish matched TV guide` workflow runs after every successful daily source refresh. `status-matched.json` records its publication status. The rules contain channel identifiers and names only; account credentials and stream URLs are not stored in this repository.
 
 Provider IDs shared by different regional feeds cannot uniquely identify both schedules. A corrected private M3U playlist can assign the canonical IDs per channel. Blank IDs also require playlist correction when the player cannot match a display name.
+
+## Gap coverage
+
+The matched feed now loads the main and supplemental daily XMLTV schedules. `channel-matches.json.gz.b64` contains compressed, credential-free matching rules. Exact names, callsigns and network aliases are preferred. Alternate regional/network feeds and shifted schedules are labelled approximate in programme descriptions.
+
+Channels without published schedules receive explicit 24/7, event-channel or schedule-unavailable blocks rather than fabricated programme listings. These blocks identify the channel; they do not assert a current episode or live event. Provider IDs reused for multiple channels can still require a corrected private M3U playlist for unique per-channel assignment. Channel-name aliases are included for players supporting name matching.
+
+Supplemental sources refresh daily via `Refresh extra channel guides`, and successful main or supplemental downloads rebuild the matched feed. See `status-matched.json` for actual coverage by type and region.
