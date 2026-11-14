@@ -2452,7 +2452,9 @@
     ]
   },
   "TheWeatherNetwork.ca@SD": {
-    "aliases": [],
+    "aliases": [
+      "TheWeatherNetwork.ca"
+    ],
     "names": [
       "CA EN: WEATHER NETWORK",
       "CA EN: WEATHER NETWORK HD"
@@ -2596,7 +2598,9 @@
     ]
   },
   "TSN2.ca@SD": {
-    "aliases": [],
+    "aliases": [
+      "TSN2.ca"
+    ],
     "names": [
       "CA EN: TSN 2",
       "CA: TSN 2 ᴿᴬᵂ",
